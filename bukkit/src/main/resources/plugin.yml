@@ -1,0 +1,20 @@
+name: DonutOrder
+version: '${version}'
+main: me.rein.donutorder.DonutOrder
+api-version: '1.13'
+folia-supported: true
+softdepend: [EconomyShopGUI,EconomyShopGUI-Premium,ShopGUIPlus,DonutWorth,DonutDatabase,PlaceholderAPI,MMOItems]
+
+libraries:
+  - "com.zaxxer:HikariCP:5.0.1"
+  - "com.github.luben:zstd-jni:1.5.7-3"
+  - "redis.clients:jedis:5.2.0"
+
+commands:
+  order:
+    description: "Order"
+    permission: order.use
+
+permissions:
+  order.admin:
+    default: op
