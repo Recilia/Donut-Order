@@ -1,0 +1,7012 @@
+# Deprecated
+prices:
+  - item_0:0.25
+  - item_1:0.25
+  - item_2:16.0
+  - item_3:12.0
+  - item_4:200.0
+  - item_5:0.5
+  - item_6:4.0
+  - item_7:200.0
+  - item_8:2.0
+  - item_9:1.0
+  - item_10:10.0
+  - item_11:50.0
+  - item_12:200.0
+  - item_13:5.0
+  - item_14:8.0
+  - item_15:10.0
+  - item_16:0.5
+  - item_17:0.2
+  - item_18:5.0
+  - item_19:15.0
+  - item_20:0.3
+  - item_21:5.0
+  - item_22:2.0
+  - item_23:1000.0
+  - item_24:0.5
+  - item_25:100.0
+  - item_26:7.0
+  - item_27:16.0
+  - item_28:1.0
+  - item_29:200.0
+  - item_30:5.0
+  - item_31:4.0
+  - item_32:10.0
+  - item_33:10.0
+  - item_34:1.0
+  - item_35:0.2
+  - item_36:3.0
+  - item_37:2.0
+  - item_38:5.0
+  - item_39:2.0
+  - item_40:13.0
+  - item_41:3.0
+  - item_42:10.0
+  - item_43:1.0
+  - item_44:100.0
+  - item_45:50.0
+  - item_46:13.0
+  - item_47:100.0
+  - item_48:5.0
+  - item_49:10.0
+  - item_50:200.0
+  - item_51:2.0
+  - item_52:400.0
+  - item_53:2.0
+  - item_54:5.0
+  - item_55:13.0
+  - item_56:1.0
+  - item_57:0.3
+  - item_58:1.0
+  - item_59:1.0
+  - item_60:75.0
+  - item_61:0.3
+  - item_62:75.0
+  - item_63:1.0
+  - item_64:15000.0
+  - item_65:5.0
+  - item_66:50.0
+  - item_67:2.0
+  - item_68:50.0
+  - item_69:25.0
+  - item_70:0.25
+  - item_71:0.5
+  - item_72:1.0
+  - item_73:10.0
+  - item_74:10.0
+  - item_75:0.5
+  - item_76:0.4
+  - item_77:50.0
+  - item_78:7.0
+  - item_79:25.0
+  - item_80:5.0
+  - item_81:2.0
+  - item_82:2.0
+  - item_83:10.0
+  - item_84:1.0
+  - item_85:5.0
+  - item_86:3.0
+  - item_87:13.0
+  - item_88:1.0
+  - item_89:5.0
+  - item_90:13.0
+  - item_91:1.0
+  - item_92:2.0
+  - item_93:0.25
+  - item_94:2.0
+  - item_95:100.0
+  - item_96:1.0
+  - item_97:50.0
+  - item_98:0.1
+  - item_99:2.0
+  - item_100:2.0
+  - item_101:250.0
+  - item_102:5.0
+  - item_103:3.0
+  - item_104:0.5
+  - item_105:8.0
+  - item_106:200.0
+  - item_107:0.3
+  - item_108:18.0
+  - item_109:50.0
+  - item_110:13.0
+  - item_111:2.0
+  - item_112:25.0
+  - item_113:200.0
+  - item_114:0.3
+  - item_115:50.0
+  - item_116:10.0
+  - item_117:0.4
+  - item_118:10.0
+  - item_119:3.0
+  - item_120:15.0
+  - item_121:0.3
+  - item_122:16.0
+  - item_123:5.0
+  - item_124:2.0
+  - item_125:3.0
+  - item_126:2.0
+  - item_127:10.0
+  - item_128:1.0
+  - item_129:2.0
+  - item_130:1.0
+  - item_131:10.0
+  - item_132:2.0
+  - item_133:3.0
+  - item_134:10.0
+  - item_135:3.0
+  - item_136:0.25
+  - item_137:40.0
+  - item_138:50.0
+  - item_139:1.0
+  - item_140:13.0
+  - item_141:13.0
+  - item_142:720.0
+  - item_143:10000.0
+  - item_144:13.0
+  - item_145:10.0
+  - item_146:1.0
+  - item_147:13.0
+  - item_148:2.0
+  - item_149:10.0
+  - item_150:5.0
+  - item_151:0.25
+  - item_152:13.0
+  - item_153:0.3
+  - item_154:5.0
+  - item_155:0.5
+  - item_156:1.0
+  - item_157:1.0
+  - item_158:335.0
+  - item_159:1.0
+  - item_160:1.2
+  - item_161:2.0
+  - item_162:2.0
+  - item_163:100.0
+  - item_164:1.0
+  - item_165:0.5
+  - item_166:150.0
+  - item_167:0.1
+  - item_168:10.0
+  - item_169:0.2
+  - item_170:0.25
+  - item_171:13.0
+  - item_172:6.0
+  - item_173:100.0
+  - item_174:6.0
+  - item_175:200.0
+  - item_176:15.0
+  - item_177:3.0
+  - item_178:1.0
+  - item_179:300.0
+  - item_180:10.0
+  - item_181:200.0
+  - item_182:2.0
+  - item_183:4.0
+  - item_184:1.0
+  - item_185:6.0
+  - item_186:5.0
+  - item_187:4.0
+  - item_188:3.0
+  - item_189:25.0
+  - item_190:0.5
+  - item_191:2.0
+  - item_192:0.3
+  - item_193:2.0
+  - item_194:400.0
+  - item_195:8.0
+  - item_196:50.0
+  - item_197:100.0
+  - item_198:2.0
+  - item_199:200.0
+  - item_200:200.0
+  - item_201:1.0
+  - item_202:0.25
+  - item_203:0.25
+  - item_204:0.5
+  - item_205:200.0
+  - item_206:1.0
+  - item_207:0.25
+  - item_208:4.0
+  - item_209:5.0
+  - item_210:10.0
+  - item_211:3.0
+  - item_212:2.0
+  - item_213:3.0
+  - item_214:1.0
+  - item_215:1.0
+  - item_216:5.0
+  - item_217:1.0
+  - item_218:100.0
+  - item_219:50.0
+  - item_220:100.0
+  - item_221:10.0
+  - item_222:0.2
+  - item_223:300.0
+  - item_224:0.5
+  - item_225:2.0
+  - item_226:16.0
+  - item_227:200.0
+  - item_228:4.0
+  - item_229:8.0
+  - item_230:1.0
+  - item_231:100.0
+  - item_232:6.0
+  - item_233:2.0
+  - item_234:10.0
+  - item_235:6.0
+  - item_236:2.0
+  - item_237:1.0
+  - item_238:3.0
+  - item_239:0.1
+  - item_240:0.25
+  - item_241:1.0
+  - item_242:3.0
+  - item_243:16.0
+  - item_244:0.25
+  - item_245:200.0
+  - item_246:1.0
+  - item_247:0.25
+  - item_248:1.0
+  - item_249:0.5
+  - item_250:5.0
+  - item_251:0.5
+  - item_252:1.0
+  - item_253:20.0
+  - item_254:100.0
+  - item_255:4.0
+  - item_256:0.25
+  - item_257:150.0
+  - item_258:13.0
+  - item_259:1.0
+  - item_260:3.0
+  - item_261:5.0
+  - item_262:5.0
+  - item_263:1.0
+  - item_264:1.0
+  - item_265:14.0
+  - item_266:1.0
+  - item_267:4.0
+  - item_268:10.0
+  - item_269:500.0
+  - item_270:16.0
+  - item_271:200.0
+  - item_272:10.0
+  - item_273:4.0
+  - item_274:50.0
+  - item_275:200.0
+  - item_276:0.25
+  - item_277:3.0
+  - item_278:126.0
+  - item_279:2.0
+  - item_280:0.5
+  - item_281:3.0
+  - item_282:1.0
+  - item_283:0.1
+  - item_284:10.0
+  - item_285:2.0
+  - item_286:1.0
+  - item_287:2.0
+  - item_288:4.0
+  - item_289:2.0
+  - item_290:100.0
+  - item_291:0.25
+  - item_292:0.3
+  - item_293:2.0
+  - item_294:2000.0
+  - item_295:3.0
+  - item_296:0.25
+  - item_297:0.25
+  - item_298:0.3
+  - item_299:0.25
+  - item_300:0.25
+  - item_301:1.0
+  - item_302:1.0
+  - item_303:200.0
+  - item_304:13.0
+  - item_305:50.0
+  - item_306:100.0
+  - item_307:5.0
+  - item_308:1.0
+  - item_309:0.5
+  - item_310:50.0
+  - item_311:4.0
+  - item_312:0.25
+  - item_313:2.0
+  - item_314:10.0
+  - item_315:2.0
+  - item_316:2.0
+  - item_317:50.0
+  - item_318:0.5
+  - item_319:5.0
+  - item_320:3.0
+  - item_321:0.4
+  - item_322:1.0
+  - item_323:0.1
+  - item_324:0.3
+  - item_325:0.1
+  - item_326:1.0
+  - item_327:1.0
+  - item_328:0.2
+  - item_329:1.0
+  - item_330:2.0
+  - item_331:0.25
+  - item_332:5.0
+  - item_333:2.0
+  - item_334:1.0
+  - item_335:5.0
+  - item_336:1.0
+  - item_337:1.0
+  - item_338:0.3
+  - item_339:50.0
+  - item_340:13.0
+  - item_341:1.0
+  - item_342:200.0
+  - item_343:1.0
+  - item_344:10.0
+  - item_345:50.0
+  - item_346:10.0
+  - item_347:3.0
+  - item_348:2.0
+  - item_349:8.0
+  - item_350:2.0
+  - item_351:200.0
+  - item_352:100.0
+  - item_353:0.3
+  - item_354:4.0
+  - item_355:2.0
+  - item_356:0.3
+  - item_357:200.0
+  - item_358:1.0
+  - item_359:1.0
+  - item_360:200.0
+  - item_361:1.0
+  - item_362:2.0
+  - item_363:10.0
+  - item_364:1200.0
+  - item_365:1.0
+  - item_366:1.0
+  - item_367:0.5
+  - item_368:200.0
+  - item_369:3.0
+  - item_370:5.0
+  - item_371:200.0
+  - item_372:2.0
+  - item_373:10.0
+  - item_374:3.0
+  - item_375:3.0
+  - item_376:600.0
+  - item_377:4.0
+  - item_378:75.0
+  - item_379:1.0
+  - item_380:50.0
+  - item_381:10.0
+  - item_382:1.5
+  - item_383:5.0
+  - item_384:450.0
+  - item_385:2.0
+  - item_386:0.5
+  - item_387:13.0
+  - item_388:200.0
+  - item_389:5.0
+  - item_390:3.0
+  - item_391:1.0
+  - item_392:0.5
+  - item_393:2.0
+  - item_394:200.0
+  - item_395:5.0
+  - item_396:2.0
+  - item_397:2.0
+  - item_398:0.5
+  - item_399:50.0
+  - item_400:0.5
+  - item_401:10.0
+  - item_402:5.0
+  - item_403:200.0
+  - item_404:10.0
+  - item_405:1.0
+  - item_406:0.5
+  - item_407:5.0
+  - item_408:0.4
+  - item_409:10.0
+  - item_410:10.0
+  - item_411:50.0
+  - item_412:75.0
+  - item_413:50.0
+  - item_414:5.0
+  - item_415:3.0
+  - item_416:1.0
+  - item_417:2.0
+  - item_418:7.0
+  - item_419:4.0
+  - item_420:2.0
+  - item_421:100.0
+  - item_422:2.0
+  - item_423:10.0
+  - item_424:10.0
+  - item_425:4.0
+  - item_426:14.0
+  - item_427:100.0
+  - item_428:3.0
+  - item_429:1.0
+  - item_430:50.0
+  - item_431:2.0
+  - item_432:2.0
+  - item_433:1.0
+  - item_434:10.0
+  - item_435:200.0
+  - item_436:1.0
+  - item_437:200.0
+  - item_438:5.0
+  - item_439:0.25
+  - item_440:3.0
+  - item_441:900.0
+  - item_442:0.5
+  - item_443:1.0
+  - item_444:10.0
+  - item_445:13.0
+  - item_446:3.0
+  - item_447:2.0
+  - item_448:13.0
+  - item_449:1.0
+  - item_450:0.2
+  - item_451:10.0
+  - item_452:10.0
+  - item_453:0.5
+  - item_454:3.0
+  - item_455:0.25
+  - item_456:0.5
+  - item_457:15.0
+  - item_458:13.0
+  - item_459:2.0
+  - item_460:100.0
+  - item_461:2.0
+  - item_462:2.0
+  - item_463:200.0
+  - item_464:0.25
+  - item_465:1.0
+  - item_466:2.0
+  - item_467:10.0
+  - item_468:25.0
+  - item_469:3.0
+  - item_470:0.25
+  - item_471:5.0
+  - item_472:4.0
+  - item_473:1.0
+  - item_474:10.0
+  - item_475:0.25
+  - item_476:13.0
+  - item_477:0.5
+  - item_478:0.3
+  - item_479:2.0
+  - item_480:0.3
+  - item_481:75.0
+  - item_482:10.0
+  - item_483:0.3
+  - item_484:200.0
+  - item_485:12.0
+  - item_486:3.0
+  - item_487:5.0
+  - item_488:50.0
+  - item_489:0.3
+  - item_490:5.0
+  - item_491:2.0
+  - item_492:10.0
+  - item_493:0.2
+  - item_494:300.0
+  - item_495:5.0
+  - item_496:0.25
+  - item_497:2.0
+  - item_498:1.0
+  - item_499:50.0
+  - item_500:5.0
+  - item_501:3.0
+  - item_502:1.0
+  - item_503:1.0
+  - item_504:1.0
+  - item_505:600.0
+  - item_506:4.0
+  - item_507:2.0
+  - item_508:100.0
+  - item_509:3.0
+  - item_510:20.0
+  - item_511:0.5
+  - item_512:0.2
+  - item_513:5.0
+  - item_514:2.0
+  - item_515:75.0
+  - item_516:25.0
+  - item_517:75.0
+  - item_518:3.0
+  - item_519:50.0
+  - item_520:5.0
+  - item_521:1.0
+  - item_522:15.0
+  - item_523:1.0
+  - item_524:13.0
+  - item_525:0.1
+  - item_526:1.0
+  - item_527:13.0
+  - item_528:1.0
+  - item_529:0.25
+  - item_530:2.0
+  - item_531:1.0
+  - item_532:2.0
+  - item_533:15.0
+  - item_534:100.0
+  - item_535:1300.0
+  - item_536:0.25
+  - item_537:10.0
+  - item_538:0.5
+  - item_539:400.0
+  - item_540:20.0
+  - item_541:0.2
+  - item_542:0.25
+  - item_543:100.0
+  - item_544:4.0
+  - item_545:2.0
+  - item_546:4.0
+  - item_547:0.2
+  - item_548:725.0
+  - item_549:10.0
+  - item_550:5.0
+  - item_551:0.25
+  - item_552:0.5
+  - item_553:8.0
+  - item_554:1.0
+  - item_555:7.0
+  - item_556:0.2
+  - item_557:15.0
+  - item_558:4.0
+  - item_559:10.0
+  - item_560:1.0
+  - item_561:16.0
+  - item_562:4.0
+  - item_563:2.0
+  - item_564:0.5
+  - item_565:1.0
+  - item_566:1.0
+  - item_567:2.0
+  - item_568:1.0
+  - item_569:10.0
+  - item_570:1.0
+  - item_571:200.0
+  - item_572:14.0
+  - item_573:5.0
+  - item_574:0.5
+  - item_575:1.0
+  - item_576:1.0
+  - item_577:16.0
+  - item_578:75.0
+  - item_579:1.0
+  - item_580:45.0
+  - item_581:10.0
+  - item_582:5.0
+  - item_583:8.0
+  - item_584:0.3
+  - item_585:13.0
+  - item_586:4.0
+  - item_587:3.0
+  - item_588:5.0
+  - item_589:200.0
+  - item_590:1.0
+  - item_591:1.0
+  - item_592:1.0
+  - item_593:4.0
+  - item_594:10.0
+  - item_595:0.3
+  - item_596:1.0
+  - item_597:2.0
+  - item_598:10.0
+  - item_599:16.0
+  - item_600:1.0
+  - item_601:0.3
+  - item_602:1.0
+  - item_603:16.0
+  - item_604:10.0
+  - item_605:0.4
+  - item_606:10.0
+  - item_607:200.0
+  - item_608:100.0
+  - item_609:200.0
+  - item_610:10.0
+  - item_611:0.25
+  - item_612:1.0
+  - item_613:0.25
+  - item_614:5.0
+  - item_615:0.5
+  - item_616:30.0
+  - item_617:35.0
+  - item_618:200.0
+  - item_619:100.0
+  - item_620:2.0
+  - item_621:2.0
+  - item_622:75.0
+  - item_623:3.0
+  - item_624:3.0
+  - item_625:10.0
+  - item_626:10.0
+  - item_627:5.0
+  - item_628:1.0
+  - item_629:0.3
+  - item_630:50.0
+  - item_631:50.0
+  - item_632:10.0
+  - item_633:1.0
+  - item_634:200.0
+  - item_635:0.25
+  - item_636:2.0
+  - item_637:0.5
+  - item_638:4.0
+  - item_639:10.0
+  - item_640:5.0
+  - item_641:200.0
+  - item_642:75.0
+  - item_643:5.0
+  - item_644:10.0
+  - item_645:0.5
+  - item_646:5.0
+  - item_647:2.0
+  - item_648:1.0
+  - item_649:5.0
+  - item_650:50.0
+  - item_651:0.25
+  - item_652:5.0
+  - item_653:2.0
+  - item_654:2.0
+  - item_655:1.0
+  - item_656:4.0
+  - item_657:1.0
+  - item_658:0.5
+  - item_659:25.0
+  - item_660:2.0
+  - item_661:5.0
+  - item_662:1200.0
+  - item_663:2.0
+  - item_664:5.0
+  - item_665:1.0
+  - item_666:0.5
+  - item_667:5.0
+  - item_668:0.5
+  - item_669:13.0
+  - item_670:0.5
+  - item_671:2.0
+  - item_672:0.25
+  - item_673:50.0
+  - item_674:0.5
+  - item_675:0.25
+  - item_676:6.0
+  - item_677:4.0
+  - item_678:2.0
+  - item_679:3.0
+  - item_680:10.0
+  - item_681:10.0
+  - item_682:10.0
+  - item_683:2.0
+  - item_684:13.0
+  - item_685:45.0
+  - item_686:1.0
+  - item_687:1.0
+  - item_688:200.0
+  - item_689:16.0
+  - item_690:0.4
+  - item_691:3.0
+  - item_692:5.0
+  - item_693:10.0
+  - item_694:13.0
+  - item_695:5.0
+  - item_696:2.0
+  - item_697:1.0
+  - item_698:1.0
+  - item_699:2.0
+  - item_700:10.0
+  - item_701:100.0
+  - item_702:2.0
+  - item_703:250.0
+  - item_704:10.0
+  - item_705:10.0
+  - item_706:2.0
+  - item_707:16.0
+  - item_708:100.0
+  - item_709:5.0
+  - item_710:5.0
+  - item_711:16.0
+  - item_712:6.0
+  - item_713:3.0
+  - item_714:0.25
+  - item_715:1.0
+  - item_716:20.0
+  - item_717:1.0
+  - item_718:2.0
+  - item_719:10.0
+  - item_720:30.0
+  - item_721:2.0
+  - item_722:2.0
+  - item_723:18.0
+  - item_724:950.0
+  - item_725:10.0
+  - item_726:75.0
+  - item_727:4.0
+  - item_728:10.0
+  - item_729:1.0
+  - item_730:5.0
+  - item_731:16.0
+  - item_732:300.0
+  - item_733:10.0
+  - item_734:1.0
+  - item_735:0.5
+  - item_736:0.25
+  - item_737:100.0
+  - item_738:0.5
+  - item_739:10.0
+  - item_740:0.25
+  - item_741:0.5
+  - item_742:30.0
+  - item_743:0.25
+  - item_744:7.0
+  - item_745:200.0
+  - item_746:10.0
+  - item_747:5.0
+  - item_748:4.0
+  - item_749:0.3
+  - item_750:1.0
+  - item_751:4.0
+  - item_752:425.0
+  - item_753:1.0
+  - item_754:30.0
+  - item_755:200.0
+  - item_756:85.0
+  - item_757:1.0
+  - item_758:0.1
+  - item_759:0.3
+  - item_760:0.3
+  - item_761:5100.0
+  - item_762:10.0
+  - item_763:1.0
+  - item_764:5.0
+  - item_765:250.0
+  - item_766:30.0
+  - item_767:2.0
+  - item_768:2.0
+  - item_769:100.0
+  - item_770:10.0
+  - item_771:5.0
+  - item_772:1.0
+  - item_773:0.25
+  - item_774:5.0
+  - item_775:2.0
+  - item_776:200.0
+  - item_777:4.0
+  - item_778:5.0
+  - item_779:0.25
+  - item_780:2.0
+  - item_781:1.0
+  - item_782:2.0
+  - item_783:1.0
+  - item_784:5.0
+  - item_785:15.0
+  - item_786:2000.0
+  - item_787:0.25
+  - item_788:50.0
+  - item_789:10.0
+  - item_790:5.0
+  - item_791:3.0
+  - item_792:200.0
+  - item_793:0.25
+  - item_794:0.2
+  - item_795:150.0
+  - item_796:1.0
+  - item_797:1.0
+  - item_798:50.0
+  - item_799:1.0
+  - item_800:600.0
+  - item_801:4.0
+  - item_802:2.0
+  - item_803:0.3
+  - item_804:13.0
+  - item_805:0.25
+  - item_806:1.0
+  - item_807:13.0
+  - item_808:13.0
+  - item_809:10.0
+  - item_810:2.0
+  - item_811:1.0
+  - item_812:2.0
+  - item_813:10.0
+  - item_814:5.0
+  - item_815:0.5
+  - item_816:5.0
+  - item_817:0.4
+  - item_818:1.0
+  - item_819:0.3
+  - item_820:10.0
+  - item_821:0.2
+  - item_822:1.0
+  - item_823:1.0
+  - item_824:1.0
+  - item_825:15.0
+  - item_826:14.0
+  - item_827:200.0
+  - item_828:3.0
+  - item_829:1.0
+  - item_830:3.0
+  - item_831:200.0
+  - item_832:1.0
+  - item_833:13.0
+  - item_834:2.0
+  - item_835:1.0
+  - item_836:13.0
+  - item_837:13.0
+  - item_838:75.0
+  - item_839:300.0
+  - item_840:200.0
+  - item_841:8.0
+  - item_842:4.0
+  - item_843:1.0
+  - item_844:0.3
+  - item_845:10.0
+  - item_846:0.5
+  - item_847:0.5
+  - item_848:5.0
+  - item_849:1.0
+  - item_850:0.5
+  - item_851:20.0
+  - item_852:0.1
+  - item_853:3.0
+  - item_854:100000.0
+  - item_855:1.0
+  - item_856:3.0
+  - item_857:0.5
+  - item_858:0.25
+  - item_859:1.0
+  - item_860:2.0
+  - item_861:0.2
+  - item_862:1.0
+  - item_863:25.0
+  - item_864:75.0
+  - item_865:2.0
+  - item_866:2.0
+  - item_867:2.0
+  - item_868:0.5
+  - item_869:0.5
+  - item_870:0.25
+  - item_871:10.0
+  - item_872:0.25
+  - item_873:5.0
+  - item_874:50.0
+  - item_875:3.0
+  - item_876:16.0
+  - item_877:5.0
+  - item_878:4.0
+  - item_879:2.0
+  - item_880:0.3
+  - item_881:0.5
+  - item_882:3.0
+  - item_883:50.0
+  - item_884:0.2
+  - item_885:2.0
+  - item_886:300.0
+  - item_887:1.0
+  - item_888:100.0
+  - item_889:2.0
+  - item_890:150.0
+  - item_891:0.3
+  - item_892:1.0
+  - item_893:1.0
+  - item_894:1.0
+  - item_895:1.0
+  - item_896:0.3
+  - item_897:0.25
+  - item_898:10.0
+  - item_899:0.3
+  - item_900:400.0
+  - item_901:1.0
+  - item_902:10.0
+  - item_903:3.0
+  - item_904:16.0
+  - item_905:0.1
+  - item_906:80.0
+  - item_907:5.0
+  - item_908:2.0
+  - item_909:1.0
+  - item_910:7.0
+  - item_911:10.0
+  - item_912:5.0
+  - item_913:3.0
+  - item_914:5.0
+  - item_915:200.0
+  - item_916:2.0
+  - item_917:2.0
+  - item_918:9.0
+  - item_919:5.0
+  - item_920:5.0
+  - item_921:50.0
+  - item_922:10.0
+  - item_923:5.0
+  - item_924:1.0
+  - item_925:12.0
+  - item_926:10.0
+  - item_927:1.0
+  - item_928:300.0
+  - item_929:10.0
+  - item_930:4.0
+  - item_931:10.0
+  - item_932:2.0
+  - item_933:2.0
+  - item_934:1.0
+  - item_935:100.0
+  - item_936:1.0
+  - item_937:3.0
+  - item_938:1.0
+  - item_939:150.0
+  - item_940:13.0
+  - item_941:5.0
+  - item_942:200.0
+  - item_943:10.0
+  - item_944:300.0
+  - item_945:25.0
+  - item_946:2.0
+  - item_947:1.0
+  - item_948:900.0
+  - item_949:12.0
+  - item_950:5.0
+  - item_951:2.0
+  - item_952:13.0
+  - item_953:25.0
+  - item_954:10.0
+  - item_955:50.0
+  - item_956:10.0
+  - item_957:0.2
+  - item_958:10.0
+  - item_959:1.0
+  - item_960:2.0
+  - item_961:10.0
+  - item_962:5.0
+  - item_963:150.0
+  - item_964:2.0
+  - item_965:3.0
+  - item_966:50.0
+  - item_967:400.0
+  - item_968:5.0
+  - item_969:75.0
+  - item_970:0.5
+  - item_971:1.0
+  - item_972:10.0
+  - item_973:1.0
+  - item_974:2.0
+  - item_975:200.0
+  - item_976:30.0
+  - item_977:10.0
+  - item_978:3.0
+  - item_979:3.0
+  - item_980:1.0
+  - item_981:2.0
+  - item_982:1.0
+  - item_983:0.5
+  - item_984:250.0
+  - item_985:10.0
+  - item_986:10.0
+  - item_987:10.0
+  - item_988:1.0
+  - item_989:13.0
+  - item_990:2.0
+  - item_991:2.0
+  - item_992:10.0
+  - item_993:200.0
+  - item_994:10.0
+  - item_995:1.0
+  - item_996:5.0
+  - item_997:100.0
+  - item_998:1.0
+  - item_999:8.0
+  - item_1000:200.0
+  - item_1001:0.5
+  - item_1002:0.25
+  - item_1003:0.25
+  - item_1004:2.0
+  - item_1005:300.0
+  - item_1006:2.0
+  - item_1007:3.0
+  - item_1008:3.0
+  - item_1009:1.0
+  - item_1010:8.0
+  - item_1011:13.0
+  - item_1012:1.0
+  - item_1013:100.0
+  - item_1014:0.25
+  - item_1015:3.0
+  - item_1016:3.0
+  - item_1017:300.0
+  - item_1018:10.0
+  - item_1019:13.0
+  - item_1020:10.0
+  - item_1021:30.0
+  - item_1022:2.0
+  - item_1023:4.0
+  - item_1024:10.0
+  - item_1025:10.0
+  - item_1026:4.0
+  - item_1027:200.0
+  - item_1028:5.0
+  - item_1029:1.0
+  - item_1030:2.0
+  - item_1031:2.0
+  - item_1032:10.0
+  - item_1033:0.1
+  - item_1034:75.0
+  - item_1035:1.0
+  - item_1036:200.0
+  - item_1037:0.5
+  - item_1038:8.0
+  - item_1039:50.0
+  - item_1040:0.5
+  - item_1041:15.0
+  - item_1042:100.0
+  - item_1043:0.5
+  - item_1044:1.0
+  - item_1045:1.0
+  - item_1046:13.0
+  - item_1047:10.0
+  - item_1048:50.0
+  - item_1049:1.0
+  - item_1050:3.0
+  - item_1051:5.0
+  - item_1052:0.25
+  - item_1053:2.0
+  - item_1054:1.0
+  - item_1055:4.0
+  - item_1056:0.5
+  - item_1057:16.0
+  - item_1058:2.0
+  - item_1059:1.0
+  - item_1060:14.0
+  - item_1061:1.0
+  - item_1062:1.0
+  - item_1063:10.0
+  - item_1064:20.0
+  - item_1065:10.0
+  - item_1066:2.0
+  - item_1067:3.0
+  - item_1068:126.0
+  - item_1069:2.0
+  - item_1070:35.0
+  - item_1071:5.0
+  - item_1072:3.0
+  - item_1073:600.0
+  - item_1074:9.0
+  - item_1075:16.0
+  - item_1076:2.0
+  - item_1077:1.0
+  - item_1078:1.0
+  - item_1079:10.0
+  - item_1080:1.0
+  - item_1081:13.0
+  - item_1082:10.0
+  - item_1083:0.2
+  - item_1084:8.0
+  - item_1085:2.0
+  - item_1086:5.0
+  - item_1087:3.0
+  - item_1088:8.0
+  - item_1089:13.0
+  - item_1090:10.0
+  - item_1091:2.0
+  - item_1092:3.0
+  - item_1093:1.0
+  - item_1094:2.0
+  - item_1095:1.0
+  - item_1096:0.5
+  - item_1097:0.1
+  - item_1098:5.0
+  - item_1099:10.0
+  - item_1100:1.0
+  - item_1101:0.25
+  - item_1102:5.0
+  - item_1103:4.0
+  - item_1104:10.0
+  - item_1105:1.0
+  - item_1106:5.0
+  - item_1107:300.0
+  - item_1108:2.0
+  - item_1109:16.0
+  - item_1110:48.0
+  - item_1111:16.0
+  - item_1112:8.0
+  - item_1113:1.0
+  - item_1114:1.0
+  - item_1115:1.0
+  - item_1116:2.0
+  - item_1117:10.0
+  - item_1118:13.0
+  - item_1119:3.0
+  - item_1120:3.0
+  - item_1121:10.0
+  - item_1122:1.0
+  - item_1123:1.0
+  - item_1124:10.0
+  - item_1125:1.0
+  - item_1126:5.0
+  - item_1127:1400.0
+  - item_1128:0.5
+  - item_1129:5.0
+  - item_1130:1.0
+  - item_1131:1.0
+  - item_1132:30.0
+  - item_1133:50.0
+  - item_1134:10.0
+  - item_1135:0.5
+  - item_1136:18.0
+  - item_1137:1000.0
+  - item_1138:4.0
+  - item_1139:0.4
+  - item_1140:5.0
+  - item_1141:0.5
+  - item_1142:10.0
+  - item_1143:10.0
+  - item_1144:3.0
+  - item_1145:2.0
+  - item_1146:5.0
+  - item_1147:0.2
+  - item_1148:100.0
+  - item_1149:100.0
+  - item_1150:50.0
+  - item_1151:0.25
+  - item_1152:2.0
+  - item_1153:75.0
+  - item_1154:625.0
+  - item_1155:10.0
+  - item_1156:1.0
+  - item_1157:1.0
+  - item_1158:50.0
+  - item_1159:200.0
+  - item_1160:0.1
+  - item_1161:10.0
+  - item_1162:13.0
+  - item_1163:5.0
+  - item_1164:1.0
+  - item_1165:2.0
+  - item_1166:2.0
+  - item_1167:20.0
+  - item_1168:0.5
+  - item_1169:0.5
+  - item_1170:5.0
+  - item_1171:50.0
+  - item_1172:2.0
+  - item_1173:1.0
+  - item_1174:1.0
+  - item_1175:10.0
+  - item_1176:50.0
+  - item_1177:13.0
+  - item_1178:10.0
+  - item_1179:5.0
+  - item_1180:1.0
+  - item_1181:0.3
+  - item_1182:0.25
+  - item_1183:5.0
+  - item_1184:2.0
+  - item_1185:2.0
+  - item_1186:50.0
+  - item_1187:2.0
+  - item_1188:13.0
+  - item_1189:12.0
+  - item_1190:0.5
+  - item_1191:3.0
+  - item_1192:5000.0
+  - item_1193:3.0
+  - item_1194:1.0
+  - item_1195:5.0
+  - item_1196:13.0
+  - item_1197:10.0
+  - item_1198:1.0
+  - item_1199:2.0
+  - item_1200:2.0
+  - item_1201:2.0
+  - item_1202:0.5
+  - item_1203:42.0
+  - item_1204:1.0
+  - item_1205:200.0
+  - item_1206:300.0
+  - item_1207:4.0
+  - item_1208:2.0
+  - item_1209:2.0
+  - item_1210:1.0
+  - item_1211:2.0
+  - item_1212:1.0
+  - item_1213:10.0
+  - item_1214:0.1
+  - item_1215:1.0
+  - item_1216:200.0
+  - item_1217:10.0
+  - item_1218:8.0
+  - item_1219:16.0
+  - item_1220:10.0
+  - item_1221:8.0
+  - item_1222:10.0
+  - item_1223:5.0
+  - item_1224:5.0
+  - item_1225:7.0
+  - item_1226:1.0
+  - item_1227:1.0
+  - item_1228:5.0
+  - item_1229:200.0
+  - item_1230:1.0
+  - item_1231:1.0
+  - item_1232:50.0
+  - item_1233:200.0
+  - item_1234:0.25
+  - item_1235:1.0
+  - item_1236:4.0
+  - item_1237:4.0
+  - item_1238:3.0
+  - item_1239:240.0
+  - item_1240:4.0
+  - item_1241:10.0
+  - item_1242:200.0
+  - item_1243:200.0
+  - item_1244:0.5
+  - item_1245:2.0
+  - item_1246:50.0
+  - item_1247:2.0
+  - item_1248:100.0
+  - item_1249:0.5
+  - item_1250:500.0
+  - item_1251:15.0
+  - item_1252:0.25
+  - item_1253:1.0
+  - item_1254:1.0
+  - item_1255:5.0
+  - item_1256:150.0
+  - item_1257:3.0
+  - item_1258:1.0
+  - item_1259:2.0
+  - item_1260:0.1
+  - item_1261:1.0
+  - item_1262:2.0
+  - item_1263:3.0
+  - item_1264:45.0
+  - item_1265:2.0
+  - item_1266:0.25
+  - item_1267:10.0
+  - item_1268:0.5
+  - item_1269:1.5
+  - item_1270:1.0
+  - item_1271:72.0
+  - item_1272:0.25
+  - item_1273:0.3
+  - item_1274:5.0
+  - item_1275:0.3
+  - item_1276:2.0
+  - item_1277:25.0
+  - item_1278:50.0
+  - item_1279:2.0
+  - item_1280:4.0
+  - item_1281:2.0
+  - item_1282:0.3
+  - item_1283:0.25
+  - item_1284:3.0
+  - item_1285:0.3
+  - item_1286:10.0
+  - item_1287:16.0
+  - item_1288:10.0
+  - item_1289:16.0
+  - item_1290:5.0
+  - item_1291:0.25
+  - item_1292:12.0
+  - item_1293:1.0
+  - item_1294:5.0
+  - item_1295:13.0
+  - item_1296:0.25
+  - item_1297:0.5
+  - item_1298:0.25
+  - item_1299:8.0
+  - item_1300:0.25
+  - item_1301:10.0
+  - item_1302:2.0
+  - item_1303:15.0
+  - item_1304:0.2
+  - item_1305:10.0
+  - item_1306:3.0
+  - item_1307:1.0
+  - item_1308:0.5
+  - item_1309:2.0
+  - item_1310:50.0
+  - item_1311:0.5
+  - item_1312:0.5
+  - item_1313:25.0
+  - item_1314:18.0
+  - item_1315:150.0
+  - item_1316:600.0
+  - item_1317:10.0
+  - item_1318:100.0
+  - item_1319:0.2
+  - item_1320:0.25
+  - item_1321:2.0
+  - item_1322:0.5
+  - item_1323:200.0
+  - item_1324:30.0
+  - item_1325:4.0
+  - item_1326:530.0
+  - item_1327:10.0
+  - item_1328:10.0
+  - item_1329:3.0
+  - item_1330:5.0
+  - item_1331:15.0
+  - item_1332:1.0
+  - item_1333:2.0
+  - item_1334:25.0
+  - item_1335:16.0
+  - item_1336:20.0
+  - item_1337:200.0
+  - item_1338:0.25
+  - item_1339:2.0
+  - item_1340:0.25
+  - item_1341:8.0
+  - item_1342:4.0
+  - item_1343:10.0
+  - item_1344:0.25
+  - item_1345:5.0
+  - item_1346:200.0
+  - item_1347:0.25
+  - item_1348:0.25
+  - item_1349:0.25
+  - item_1350:1.0
+  - item_1351:5.0
+  - item_1352:8.0
+  - item_1353:200.0
+  - item_1354:15.0
+  - item_1355:10.0
+  - item_1356:75.0
+  - item_1357:3.0
+  - item_1358:10.0
+  - item_1359:7.0
+  - item_1360:8.0
+  - item_1361:10.0
+  - item_1362:200.0
+  - item_1363:2.0
+  - item_1364:1.0
+  - item_1365:24.0
+  - item_1366:4.0
+  - item_1367:10.0
+  - item_1368:0.2
+  - item_1369:18.0
+  - item_1370:0.25
+  - item_1371:2.0
+  - item_1372:150.0
+  - item_1373:3.0
+  - item_1374:0.5
+  - item_1375:6.0
+  - item_1376:0.4
+  - item_1377:0.25
+  - item_1378:1.0
+  - item_1379:20.0
+  - item_1380:2.0
+  - item_1381:0.3
+  - item_1382:5.0
+  - item_1383:6.0
+  - item_1384:3.0
+  - item_1385:200.0
+  - item_1386:6.0
+  - item_1387:16.0
+  - item_1388:200.0
+  - item_1389:2.0
+  - item_1390:1.0
+  - item_1391:0.25
+  - item_1392:13.0
+  - item_1393:0.25
+  - item_1394:10.0
+  - item_1395:0.2
+  - item_1396:10.0
+  - item_1397:4.0
+  - item_1398:5.0
+  - item_1399:10.0
+  - item_1400:0.5
+  - item_1401:50.0
+  - item_1402:13.0
+  - item_1403:0.25
+  - item_1404:0.3
+  - item_1405:2.0
+  - item_1406:1.0
+  - item_1407:2.0
+  - item_1408:0.25
+  - item_1409:100.0
+  - item_1410:10.0
+  - item_1411:5.0
+  - item_1412:16.0
+items:
+  item_0:
+    v: 4189
+    type: MANGROVE_SLAB
+  item_1:
+    v: 4189
+    type: ROSE_BUSH
+  item_2:
+    v: 4189
+    type: BIRCH_LOG
+  item_3:
+    v: 4189
+    type: POTATO
+  item_4:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:unbreaking: 1
+  item_5:
+    v: 4189
+    type: MOSS_CARPET
+  item_6:
+    v: 4189
+    type: MELON
+  item_7:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:blast_protection: 4
+  item_8:
+    v: 4189
+    type: BLACK_WOOL
+  item_9:
+    v: 4189
+    type: CRIMSON_NYLIUM
+  item_10:
+    v: 4189
+    type: HOWL_POTTERY_SHERD
+  item_11:
+    v: 4189
+    type: MUSIC_DISC_13
+  item_12:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:vanishing_curse: 1
+  item_13:
+    v: 4189
+    type: POWERED_RAIL
+  item_14:
+    v: 4189
+    type: OBSERVER
+  item_15:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:wind_charged
+  item_16:
+    v: 4189
+    type: SUGAR
+  item_17:
+    v: 4189
+    type: MELON_SEEDS
+  item_18:
+    v: 4189
+    type: WEATHERED_COPPER
+  item_19:
+    v: 4189
+    type: CHAINMAIL_HELMET
+  item_20:
+    v: 4189
+    type: BLUE_STAINED_GLASS_PANE
+  item_21:
+    v: 4189
+    type: LIME_BANNER
+  item_22:
+    v: 4189
+    type: BIRCH_SAPLING
+  item_23:
+    v: 4189
+    type: NETHERITE_BOOTS
+  item_24:
+    v: 4189
+    type: PINK_CARPET
+  item_25:
+    v: 4189
+    type: IRON_HORSE_ARMOR
+  item_26:
+    v: 4189
+    type: WAXED_EXPOSED_CUT_COPPER_STAIRS
+  item_27:
+    v: 4189
+    type: ACACIA_LOG
+  item_28:
+    v: 4189
+    type: DARK_OAK_SIGN
+  item_29:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:riptide: 3
+  item_30:
+    v: 4189
+    type: WAXED_EXPOSED_CUT_COPPER
+  item_31:
+    v: 4189
+    type: STRIPPED_MANGROVE_WOOD
+  item_32:
+    v: 4189
+    type: DANGER_POTTERY_SHERD
+  item_33:
+    v: 4189
+    type: OBSIDIAN
+  item_34:
+    v: 4189
+    type: ORANGE_CONCRETE
+  item_35:
+    v: 4189
+    type: SEAGRASS
+  item_36:
+    v: 4189
+    type: CHISELED_STONE_BRICKS
+  item_37:
+    v: 4189
+    type: DARK_OAK_SAPLING
+  item_38:
+    v: 4189
+    type: COMPARATOR
+  item_39:
+    v: 4189
+    type: TUFF
+  item_40:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_water_breathing
+  item_41:
+    v: 4189
+    type: RABBIT_STEW
+  item_42:
+    v: 4189
+    type: TIPPED_ARROW
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water
+  item_43:
+    v: 4189
+    type: BAMBOO_FENCE_GATE
+  item_44:
+    v: 4189
+    type: NETHERITE_SHOVEL
+  item_45:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:frost_walker: 1
+  item_46:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water_breathing
+  item_47:
+    v: 4189
+    type: ZOMBIE_HEAD
+  item_48:
+    v: 4189
+    type: ORANGE_CANDLE
+  item_49:
+    v: 4189
+    type: SWEET_BERRIES
+  item_50:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fortune: 2
+  item_51:
+    v: 4189
+    type: BLAZE_ROD
+  item_52:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:protection: 2
+  item_53:
+    v: 4189
+    type: FLINT_AND_STEEL
+  item_54:
+    v: 4189
+    type: WAXED_EXPOSED_COPPER
+  item_55:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_turtle_master
+  item_56:
+    v: 4189
+    type: SPRUCE_STAIRS
+  item_57:
+    v: 4189
+    type: PRISMARINE_STAIRS
+  item_58:
+    v: 4189
+    type: WOODEN_HOE
+  item_59:
+    v: 4189
+    type: CHERRY_FENCE
+  item_60:
+    v: 4189
+    type: PINK_SHULKER_BOX
+  item_61:
+    v: 4189
+    type: PURPLE_STAINED_GLASS
+  item_62:
+    v: 4189
+    type: PURPLE_SHULKER_BOX
+  item_63:
+    v: 4189
+    type: MANGROVE_FENCE_GATE
+  item_64:
+    v: 4189
+    type: ELYTRA
+  item_65:
+    v: 4189
+    type: RED_CANDLE
+  item_66:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:knockback: 1
+  item_67:
+    v: 4189
+    type: DEEPSLATE
+  item_68:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sweeping_edge: 1
+  item_69:
+    v: 4189
+    type: DIAMOND_PICKAXE
+  item_70:
+    v: 4189
+    type: SMOOTH_RED_SANDSTONE_STAIRS
+  item_71:
+    v: 4189
+    type: SPRUCE_LEAVES
+  item_72:
+    v: 4189
+    type: GRASS_BLOCK
+  item_73:
+    v: 4189
+    type: PLENTY_POTTERY_SHERD
+  item_74:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  item_75:
+    v: 4189
+    type: LIME_CARPET
+  item_76:
+    v: 4189
+    type: BIRCH_PRESSURE_PLATE
+  item_77:
+    v: 4189
+    type: DIAMOND_SHOVEL
+  item_78:
+    v: 4189
+    type: EXPOSED_CUT_COPPER_STAIRS
+  item_79:
+    v: 4189
+    type: MUSIC_DISC_RELIC
+  item_80:
+    v: 4189
+    type: DROPPER
+  item_81:
+    v: 4189
+    type: WHITE_TERRACOTTA
+  item_82:
+    v: 4189
+    type: QUARTZ_BRICKS
+  item_83:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:swiftness
+  item_84:
+    v: 4189
+    type: INFESTED_STONE
+  item_85:
+    v: 4189
+    type: WAXED_WEATHERED_CUT_COPPER
+  item_86:
+    v: 4189
+    type: EMERALD
+  item_87:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_slowness
+  item_88:
+    v: 4189
+    type: DARK_OAK_DOOR
+  item_89:
+    v: 4189
+    type: SLIME_BALL
+  item_90:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_leaping
+  item_91:
+    v: 4189
+    type: PINK_GLAZED_TERRACOTTA
+  item_92:
+    v: 4189
+    type: GLOW_INK_SAC
+  item_93:
+    v: 4189
+    type: WARPED_BUTTON
+  item_94:
+    v: 4189
+    type: SPRUCE_SAPLING
+  item_95:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:impaling: 1
+  item_96:
+    v: 4189
+    type: SANDSTONE_SLAB
+  item_97:
+    v: 4189
+    type: MUSIC_DISC_FAR
+  item_98:
+    v: 4189
+    type: DANDELION
+  item_99:
+    v: 4189
+    type: LIGHT_BLUE_TERRACOTTA
+  item_100:
+    v: 4189
+    type: COOKED_RABBIT
+  item_101:
+    v: 4189
+    type: TOTEM_OF_UNDYING
+  item_102:
+    v: 4189
+    type: EXPOSED_COPPER
+  item_103:
+    v: 4189
+    type: ENDER_EYE
+  item_104:
+    v: 4189
+    type: SOUL_SAND
+  item_105:
+    v: 4189
+    type: DEEPSLATE_REDSTONE_ORE
+  item_106:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:punch: 2
+  item_107:
+    v: 4189
+    type: BLUE_STAINED_GLASS
+  item_108:
+    v: 4189
+    type: SCULK_CATALYST
+  item_109:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:looting: 1
+  item_110:
+    v: 4189
+    type: SPLASH_POTION
+  item_111:
+    v: 4189
+    type: CHERRY_TRAPDOOR
+  item_112:
+    v: 4189
+    type: AXOLOTL_BUCKET
+  item_113:
+    v: 4189
+    type: NETHERITE_HOE
+  item_114:
+    v: 4189
+    type: LIME_STAINED_GLASS_PANE
+  item_115:
+    v: 4189
+    type: WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_116:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_slow_falling
+  item_117:
+    v: 4189
+    type: JUNGLE_PRESSURE_PLATE
+  item_118:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_weakness
+  item_119:
+    v: 4189
+    type: STONE_PICKAXE
+  item_120:
+    v: 4189
+    type: COD_BUCKET
+  item_121:
+    v: 4189
+    type: CYAN_STAINED_GLASS_PANE
+  item_122:
+    v: 4189
+    type: STRIPPED_BIRCH_LOG
+  item_123:
+    v: 4189
+    type: PHANTOM_MEMBRANE
+  item_124:
+    v: 4189
+    type: DEAD_TUBE_CORAL_BLOCK
+  item_125:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:night_vision
+          duration: 100
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_126:
+    v: 4189
+    type: BONE_BLOCK
+  item_127:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:swiftness
+  item_128:
+    v: 4189
+    type: TROPICAL_FISH
+  item_129:
+    v: 4189
+    type: OAK_FENCE_GATE
+  item_130:
+    v: 4189
+    type: INFESTED_DEEPSLATE
+  item_131:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:oozing
+  item_132:
+    v: 4189
+    type: CHORUS_FRUIT
+  item_133:
+    v: 4189
+    type: DARK_OAK_CHEST_BOAT
+  item_134:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  item_135:
+    v: 4189
+    type: MOSSY_COBBLESTONE
+  item_136:
+    v: 4189
+    type: GILDED_BLACKSTONE
+  item_137:
+    v: 4189
+    type: DIAMOND_CHESTPLATE
+  item_138:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:swift_sneak: 1
+  item_139:
+    v: 4189
+    type: PURPUR_PILLAR
+  item_140:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_fire_resistance
+  item_141:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:mundane
+  item_142:
+    v: 4189
+    type: DIAMOND_BLOCK
+  item_143:
+    v: 4189
+    type: ENCHANTED_GOLDEN_APPLE
+  item_144:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_swiftness
+  item_145:
+    v: 4189
+    type: GHAST_TEAR
+  item_146:
+    v: 4189
+    type: ACACIA_HANGING_SIGN
+  item_147:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  item_148:
+    v: 4189
+    type: PACKED_ICE
+  item_149:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slow_falling
+  item_150:
+    v: 4189
+    type: GOLDEN_CARROT
+  item_151:
+    v: 4189
+    type: POLISHED_BLACKSTONE_SLAB
+  item_152:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:awkward
+  item_153:
+    v: 4189
+    type: WHITE_STAINED_GLASS
+  item_154:
+    v: 4189
+    type: PINK_CANDLE
+  item_155:
+    v: 4189
+    type: LIME_DYE
+  item_156:
+    v: 4189
+    type: STONE
+  item_157:
+    v: 4189
+    type: CRIMSON_SIGN
+  item_158:
+    v: 4189
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      display-name: '{"text":"","extra":[{"text":"ᴄᴏᴍᴍᴏɴ ʟᴇɢɢɪɴɢs","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"#3CA720"}]}'
+      enchants:
+        minecraft:protection: 1
+        minecraft:swift_sneak: 2
+      trim:
+        material: minecraft:emerald
+        pattern: minecraft:wild
+  item_159:
+    v: 4189
+    type: STONE_BRICK_STAIRS
+  item_160:
+    v: 4189
+    type: ARROW
+  item_161:
+    v: 4189
+    type: ICE
+  item_162:
+    v: 4189
+    type: BROWN_WOOL
+  item_163:
+    v: 4189
+    type: RESPAWN_ANCHOR
+  item_164:
+    v: 4189
+    type: PAINTING
+  item_165:
+    v: 4189
+    type: LIGHT_GRAY_DYE
+  item_166:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:smite: 3
+  item_167:
+    v: 4189
+    type: CORNFLOWER
+  item_168:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_strength
+  item_169:
+    v: 4189
+    type: SCULK_VEIN
+  item_170:
+    v: 4189
+    type: COBBLED_DEEPSLATE_STAIRS
+  item_171:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:luck
+  item_172:
+    v: 4189
+    type: STICKY_PISTON
+  item_173:
+    v: 4189
+    type: HEART_OF_THE_SEA
+  item_174:
+    v: 4189
+    type: NOTE_BLOCK
+  item_175:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:depth_strider: 3
+  item_176:
+    v: 4189
+    type: BLAST_FURNACE
+  item_177:
+    v: 4189
+    type: BIRCH_BOAT
+  item_178:
+    v: 4189
+    type: SMALL_DRIPLEAF
+  item_179:
+    v: 4189
+    type: NETHERITE_AXE
+  item_180:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strength
+  item_181:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:feather_falling: 4
+  item_182:
+    v: 4189
+    type: DEAD_BUBBLE_CORAL
+  item_183:
+    v: 4189
+    type: CHERRY_WOOD
+  item_184:
+    v: 4189
+    type: WHITE_GLAZED_TERRACOTTA
+  item_185:
+    v: 4189
+    type: CARROT_ON_A_STICK
+  item_186:
+    v: 4189
+    type: DISC_FRAGMENT_5
+  item_187:
+    v: 4189
+    type: WRITTEN_BOOK
+  item_188:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:blindness
+          duration: 160
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_189:
+    v: 4189
+    type: DIAMOND_AXE
+  item_190:
+    v: 4189
+    type: BLAZE_POWDER
+  item_191:
+    v: 4189
+    type: QUARTZ_PILLAR
+  item_192:
+    v: 4189
+    type: ORANGE_STAINED_GLASS
+  item_193:
+    v: 4189
+    type: BUBBLE_CORAL_BLOCK
+  item_194:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:unbreaking: 2
+  item_195:
+    v: 4189
+    type: NETHER_GOLD_ORE
+  item_196:
+    v: 4189
+    type: TURTLE_HELMET
+  item_197:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:breach: 2
+  item_198:
+    v: 4189
+    type: BUBBLE_CORAL
+  item_199:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:protection: 4
+  item_200:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:binding_curse: 1
+  item_201:
+    v: 4189
+    type: NETHER_BRICK
+  item_202:
+    v: 4189
+    type: CRIMSON_BUTTON
+  item_203:
+    v: 4189
+    type: POLISHED_GRANITE_SLAB
+  item_204:
+    v: 4189
+    type: JUNGLE_LEAVES
+  item_205:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:thorns: 2
+  item_206:
+    v: 4189
+    type: DARK_OAK_FENCE_GATE
+  item_207:
+    v: 4189
+    type: END_STONE_BRICK_SLAB
+  item_208:
+    v: 4189
+    type: CARVED_PUMPKIN
+  item_209:
+    v: 4189
+    type: RECOVERY_COMPASS
+  item_210:
+    v: 4189
+    type: HOPPER_MINECART
+  item_211:
+    v: 4189
+    type: WARPED_FUNGUS_ON_A_STICK
+  item_212:
+    v: 4189
+    type: FURNACE
+  item_213:
+    v: 4189
+    type: VERDANT_FROGLIGHT
+  item_214:
+    v: 4189
+    type: CRIMSON_HANGING_SIGN
+  item_215:
+    v: 4189
+    type: LADDER
+  item_216:
+    v: 4189
+    type: WAXED_CUT_COPPER
+  item_217:
+    v: 4189
+    type: SUSPICIOUS_SAND
+  item_218:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:depth_strider: 1
+  item_219:
+    v: 4189
+    type: MUSIC_DISC_CHIRP
+  item_220:
+    v: 4189
+    type: NAUTILUS_SHELL
+  item_221:
+    v: 4189
+    type: BEEHIVE
+  item_222:
+    v: 4189
+    type: POLISHED_BLACKSTONE
+  item_223:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:impaling: 3
+  item_224:
+    v: 4189
+    type: LEVER
+  item_225:
+    v: 4189
+    type: HORN_CORAL
+  item_226:
+    v: 4189
+    type: STRIPPED_JUNGLE_LOG
+  item_227:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:density: 5
+  item_228:
+    v: 4189
+    type: BLUE_ICE
+  item_229:
+    v: 4189
+    type: PUMPKIN
+  item_230:
+    v: 4189
+    type: CHORUS_PLANT
+  item_231:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:lure: 2
+  item_232:
+    v: 4189
+    type: PUMPKIN_PIE
+  item_233:
+    v: 4189
+    type: YELLOW_WOOL
+  item_234:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_slow_falling
+  item_235:
+    v: 4189
+    type: SUGAR_CANE
+  item_236:
+    v: 4189
+    type: BLUE_TERRACOTTA
+  item_237:
+    v: 4189
+    type: SNOW
+  item_238:
+    v: 4189
+    type: MANGROVE_DOOR
+  item_239:
+    v: 4189
+    type: LILY_OF_THE_VALLEY
+  item_240:
+    v: 4189
+    type: BLACKSTONE_SLAB
+  item_241:
+    v: 4189
+    type: SCULK_SHRIEKER
+  item_242:
+    v: 4189
+    type: STONE_AXE
+  item_243:
+    v: 4189
+    type: STRIPPED_DARK_OAK_WOOD
+  item_244:
+    v: 4189
+    type: BAMBOO_PRESSURE_PLATE
+  item_245:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:respiration: 2
+  item_246:
+    v: 4189
+    type: LIGHT_BLUE_GLAZED_TERRACOTTA
+  item_247:
+    v: 4189
+    type: REDSTONE_TORCH
+  item_248:
+    v: 4189
+    type: SMALL_AMETHYST_BUD
+  item_249:
+    v: 4189
+    type: CYAN_CARPET
+  item_250:
+    v: 4189
+    type: IRON_PICKAXE
+  item_251:
+    v: 4189
+    type: FERN
+  item_252:
+    v: 4189
+    type: SPRUCE_SLAB
+  item_253:
+    v: 4189
+    type: NAME_TAG
+  item_254:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:projectile_protection: 1
+  item_255:
+    v: 4189
+    type: MANGROVE_LOG
+  item_256:
+    v: 4189
+    type: STONE_BUTTON
+  item_257:
+    v: 4189
+    type: GOAT_HORN
+  item_258:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:thick
+  item_259:
+    v: 4189
+    type: QUARTZ_SLAB
+  item_260:
+    v: 4189
+    type: APPLE
+  item_261:
+    v: 4189
+    type: IRON_DOOR
+  item_262:
+    v: 4189
+    type: ROOTED_DIRT
+  item_263:
+    v: 4189
+    type: CUT_RED_SANDSTONE_SLAB
+  item_264:
+    v: 4189
+    type: ACACIA_FENCE_GATE
+  item_265:
+    v: 4189
+    type: COPPER_INGOT
+  item_266:
+    v: 4189
+    type: LANTERN
+  item_267:
+    v: 4189
+    type: CHERRY_PLANKS
+  item_268:
+    v: 4189
+    type: GOLDEN_SWORD
+  item_269:
+    v: 4189
+    type: DIAMOND_HORSE_ARMOR
+  item_270:
+    v: 4189
+    type: BREAD
+  item_271:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fire_protection: 4
+  item_272:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_strength
+  item_273:
+    v: 4189
+    type: LIGHT_GRAY_CONCRETE
+  item_274:
+    v: 4189
+    type: ANVIL
+  item_275:
+    v: 4189
+    type: PIGLIN_HEAD
+  item_276:
+    v: 4189
+    type: CUT_RED_SANDSTONE
+  item_277:
+    v: 4189
+    type: JUNGLE_BOAT
+  item_278:
+    v: 4189
+    type: RAW_IRON_BLOCK
+  item_279:
+    v: 4189
+    type: ACACIA_STAIRS
+  item_280:
+    v: 4189
+    type: GRAY_DYE
+  item_281:
+    v: 4189
+    type: CHISELED_NETHER_BRICKS
+  item_282:
+    v: 4189
+    type: MAGENTA_GLAZED_TERRACOTTA
+  item_283:
+    v: 4189
+    type: RED_TULIP
+  item_284:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:infested
+  item_285:
+    v: 4189
+    type: SMOOTH_QUARTZ_SLAB
+  item_286:
+    v: 4189
+    type: NETHER_BRICK_FENCE
+  item_287:
+    v: 4189
+    type: TORCH
+  item_288:
+    v: 4189
+    type: GREEN_CONCRETE
+  item_289:
+    v: 4189
+    type: HANGING_ROOTS
+  item_290:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fire_protection: 1
+  item_291:
+    v: 4189
+    type: NETHERRACK
+  item_292:
+    v: 4189
+    type: LIGHT_GRAY_STAINED_GLASS_PANE
+  item_293:
+    v: 4189
+    type: CRIMSON_FENCE_GATE
+  item_294:
+    v: 4189
+    type: TRIDENT
+  item_295:
+    v: 4189
+    type: COOKED_MUTTON
+  item_296:
+    v: 4189
+    type: STONE_STAIRS
+  item_297:
+    v: 4189
+    type: DIORITE_SLAB
+  item_298:
+    v: 4189
+    type: PRISMARINE_BRICK_STAIRS
+  item_299:
+    v: 4189
+    type: POLISHED_DIORITE_STAIRS
+  item_300:
+    v: 4189
+    type: CALIBRATED_SCULK_SENSOR
+  item_301:
+    v: 4189
+    type: CHERRY_FENCE_GATE
+  item_302:
+    v: 4189
+    type: TRIPWIRE_HOOK
+  item_303:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:protection: 1
+  item_304:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_leaping
+  item_305:
+    v: 4189
+    type: RIB_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_306:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:looting: 2
+  item_307:
+    v: 4189
+    type: WEATHERED_CUT_COPPER
+  item_308:
+    v: 4189
+    type: CRIMSON_FENCE
+  item_309:
+    v: 4189
+    type: WHITE_CARPET
+  item_310:
+    v: 4189
+    type: SNOUT_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_311:
+    v: 4189
+    type: QUARTZ_BLOCK
+  item_312:
+    v: 4189
+    type: SMOOTH_SANDSTONE_SLAB
+  item_313:
+    v: 4189
+    type: WHEAT_SEEDS
+  item_314:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_swiftness
+  item_315:
+    v: 4189
+    type: CYAN_TERRACOTTA
+  item_316:
+    v: 4189
+    type: DEAD_HORN_CORAL_FAN
+  item_317:
+    v: 4189
+    type: MUSIC_DISC_OTHERSIDE
+  item_318:
+    v: 4189
+    type: MAGENTA_CARPET
+  item_319:
+    v: 4189
+    type: GREEN_CANDLE
+  item_320:
+    v: 4189
+    type: SPRUCE_CHEST_BOAT
+  item_321:
+    v: 4189
+    type: OAK_PRESSURE_PLATE
+  item_322:
+    v: 4189
+    type: LIME_GLAZED_TERRACOTTA
+  item_323:
+    v: 4189
+    type: ALLIUM
+  item_324:
+    v: 4189
+    type: RED_STAINED_GLASS
+  item_325:
+    v: 4189
+    type: PITCHER_POD
+  item_326:
+    v: 4189
+    type: DARK_PRISMARINE_SLAB
+  item_327:
+    v: 4189
+    type: AMETHYST_CLUSTER
+  item_328:
+    v: 4189
+    type: BLACKSTONE
+  item_329:
+    v: 4189
+    type: BIRCH_STAIRS
+  item_330:
+    v: 4189
+    type: DARK_OAK_STAIRS
+  item_331:
+    v: 4189
+    type: SMOOTH_RED_SANDSTONE_SLAB
+  item_332:
+    v: 4189
+    type: GREEN_BANNER
+  item_333:
+    v: 4189
+    type: FERMENTED_SPIDER_EYE
+  item_334:
+    v: 4189
+    type: PURPUR_SLAB
+  item_335:
+    v: 4189
+    type: MYCELIUM
+  item_336:
+    v: 4189
+    type: MOJANG_BANNER_PATTERN
+  item_337:
+    v: 4189
+    type: WOODEN_PICKAXE
+  item_338:
+    v: 4189
+    type: PINK_PETALS
+  item_339:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:breach: 1
+  item_340:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  item_341:
+    v: 4189
+    type: SANDSTONE_STAIRS
+  item_342:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:swift_sneak: 3
+  item_343:
+    v: 4189
+    type: BIG_DRIPLEAF
+  item_344:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slow_falling
+  item_345:
+    v: 4189
+    type: MUSIC_DISC_MELLOHI
+  item_346:
+    v: 4189
+    type: BURN_POTTERY_SHERD
+  item_347:
+    v: 4189
+    type: END_ROD
+  item_348:
+    v: 4189
+    type: ORANGE_TERRACOTTA
+  item_349:
+    v: 4189
+    type: CHARCOAL
+  item_350:
+    v: 4189
+    type: NETHER_BRICKS
+  item_351:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:impaling: 5
+  item_352:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:density: 2
+  item_353:
+    v: 4189
+    type: CYAN_STAINED_GLASS
+  item_354:
+    v: 4189
+    type: BLUE_CONCRETE
+  item_355:
+    v: 4189
+    type: WEATHERED_CUT_COPPER_SLAB
+  item_356:
+    v: 4189
+    type: YELLOW_STAINED_GLASS
+  item_357:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:quick_charge: 3
+  item_358:
+    v: 4189
+    type: SMOOTH_SANDSTONE
+  item_359:
+    v: 4189
+    type: SMOOTH_STONE
+  item_360:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:channeling: 1
+  item_361:
+    v: 4189
+    type: SPRUCE_HANGING_SIGN
+  item_362:
+    v: 4189
+    type: COOKED_SALMON
+  item_363:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_weakness
+  item_364:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:efficiency: 4
+  item_365:
+    v: 4189
+    type: WARPED_FENCE
+  item_366:
+    v: 4189
+    type: CUT_SANDSTONE_SLAB
+  item_367:
+    v: 4189
+    type: JACK_O_LANTERN
+  item_368:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:smite: 5
+  item_369:
+    v: 4189
+    type: MANGROVE_BOAT
+  item_370:
+    v: 4189
+    type: PINK_BANNER
+  item_371:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:piercing: 2
+  item_372:
+    v: 4189
+    type: WARPED_TRAPDOOR
+  item_373:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:turtle_master
+  item_374:
+    v: 4189
+    type: TADPOLE_BUCKET
+  item_375:
+    v: 4189
+    type: FLOWERING_AZALEA
+  item_376:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:power: 4
+  item_377:
+    v: 4189
+    type: FISHING_ROD
+  item_378:
+    v: 4189
+    type: ORANGE_SHULKER_BOX
+  item_379:
+    v: 4189
+    type: SHROOMLIGHT
+  item_380:
+    v: 4189
+    type: HOST_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_381:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:regeneration
+  item_382:
+    v: 4189
+    type: END_STONE_BRICKS
+  item_383:
+    v: 4189
+    type: BRICKS
+  item_384:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:power: 3
+  item_385:
+    v: 4189
+    type: DEAD_BUBBLE_CORAL_FAN
+  item_386:
+    v: 4189
+    type: GLASS_PANE
+  item_387:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_poison
+  item_388:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:depth_strider: 2
+  item_389:
+    v: 4189
+    type: GRAY_BANNER
+  item_390:
+    v: 4189
+    type: MUSHROOM_STEW
+  item_391:
+    v: 4189
+    type: ACACIA_DOOR
+  item_392:
+    v: 4189
+    type: MAGENTA_DYE
+  item_393:
+    v: 4189
+    type: LIME_WOOL
+  item_394:
+    v: 4189
+    type: NETHERITE_SCRAP
+  item_395:
+    v: 4189
+    type: FIRE_CHARGE
+  item_396:
+    v: 4189
+    type: GREEN_CONCRETE_POWDER
+  item_397:
+    v: 4189
+    type: DEAD_BRAIN_CORAL
+  item_398:
+    v: 4189
+    type: STICK
+  item_399:
+    v: 4189
+    type: MUSIC_DISC_PIGSTEP
+  item_400:
+    v: 4189
+    type: AZALEA_LEAVES
+  item_401:
+    v: 4189
+    type: IRON_HOE
+  item_402:
+    v: 4189
+    type: RABBIT_HIDE
+  item_403:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:bane_of_arthropods: 4
+  item_404:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_water_breathing
+  item_405:
+    v: 4189
+    type: OAK_HANGING_SIGN
+  item_406:
+    v: 4189
+    type: TORCHFLOWER_SEEDS
+  item_407:
+    v: 4189
+    type: PURPLE_CANDLE
+  item_408:
+    v: 4189
+    type: CRIMSON_PRESSURE_PLATE
+  item_409:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_turtle_master
+  item_410:
+    v: 4189
+    type: TIPPED_ARROW
+  item_411:
+    v: 4189
+    type: MUSIC_DISC_11
+  item_412:
+    v: 4189
+    type: BLUE_SHULKER_BOX
+  item_413:
+    v: 4189
+    type: EYE_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_414:
+    v: 4189
+    type: LEAD
+  item_415:
+    v: 4189
+    type: OAK_CHEST_BOAT
+  item_416:
+    v: 4189
+    type: WARPED_SLAB
+  item_417:
+    v: 4189
+    type: LIME_CONCRETE_POWDER
+  item_418:
+    v: 4189
+    type: OXIDIZED_CUT_COPPER_STAIRS
+  item_419:
+    v: 4189
+    type: STRIPPED_MANGROVE_LOG
+  item_420:
+    v: 4189
+    type: GRAY_CONCRETE_POWDER
+  item_421:
+    v: 4189
+    type: LODESTONE
+  item_422:
+    v: 4189
+    type: RED_TERRACOTTA
+  item_423:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:turtle_master
+  item_424:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:infested
+  item_425:
+    v: 4189
+    type: KELP
+  item_426:
+    v: 4189
+    type: CAULDRON
+  item_427:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:wind_burst: 1
+  item_428:
+    v: 4189
+    type: INFESTED_CHISELED_STONE_BRICKS
+  item_429:
+    v: 4189
+    type: MAGENTA_CONCRETE
+  item_430:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:luck_of_the_sea: 1
+  item_431:
+    v: 4189
+    type: FIRE_CORAL
+  item_432:
+    v: 4189
+    type: ACACIA_TRAPDOOR
+  item_433:
+    v: 4189
+    type: ACACIA_SLAB
+  item_434:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  item_435:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:projectile_protection: 2
+  item_436:
+    v: 4189
+    type: END_STONE
+  item_437:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:wind_burst: 2
+  item_438:
+    v: 4189
+    type: DRIED_KELP_BLOCK
+  item_439:
+    v: 4189
+    type: BEETROOT_SEEDS
+  item_440:
+    v: 4189
+    type: QUARTZ_STAIRS
+  item_441:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sharpness: 3
+  item_442:
+    v: 4189
+    type: BROWN_MUSHROOM
+  item_443:
+    v: 4189
+    type: COD
+  item_444:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_turtle_master
+  item_445:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_weakness
+  item_446:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:poison
+          duration: 240
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_447:
+    v: 4189
+    type: JUNGLE_SAPLING
+  item_448:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_strength
+  item_449:
+    v: 4189
+    type: PURPLE_GLAZED_TERRACOTTA
+  item_450:
+    v: 4189
+    type: TWISTING_VINES
+  item_451:
+    v: 4189
+    type: RAW_COPPER
+  item_452:
+    v: 4189
+    type: DISPENSER
+  item_453:
+    v: 4189
+    type: GREEN_CARPET
+  item_454:
+    v: 4189
+    type: BOOK
+  item_455:
+    v: 4189
+    type: POLISHED_BLACKSTONE_PRESSURE_PLATE
+  item_456:
+    v: 4189
+    type: IRON_NUGGET
+  item_457:
+    v: 4189
+    type: TNT_MINECART
+  item_458:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:leaping
+  item_459:
+    v: 4189
+    type: GREEN_TERRACOTTA
+  item_460:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fortune: 1
+  item_461:
+    v: 4189
+    type: FLOWER_POT
+  item_462:
+    v: 4189
+    type: DEAD_HORN_CORAL
+  item_463:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:multishot: 1
+  item_464:
+    v: 4189
+    type: POLISHED_DEEPSLATE_SLAB
+  item_465:
+    v: 4189
+    type: JUNGLE_SIGN
+  item_466:
+    v: 4189
+    type: GLASS
+  item_467:
+    v: 4189
+    type: EXPLORER_POTTERY_SHERD
+  item_468:
+    v: 4189
+    type: DIAMOND_HOE
+  item_469:
+    v: 4189
+    type: BRUSH
+  item_470:
+    v: 4189
+    type: BAMBOO_BUTTON
+  item_471:
+    v: 4189
+    type: BLACK_BANNER
+  item_472:
+    v: 4189
+    type: CRIMSON_PLANKS
+  item_473:
+    v: 4189
+    type: BAMBOO_SIGN
+  item_474:
+    v: 4189
+    type: HEARTBREAK_POTTERY_SHERD
+  item_475:
+    v: 4189
+    type: JUNGLE_BUTTON
+  item_476:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:fire_resistance
+  item_477:
+    v: 4189
+    type: CYAN_DYE
+  item_478:
+    v: 4189
+    type: DARK_PRISMARINE_STAIRS
+  item_479:
+    v: 4189
+    type: DEAD_HORN_CORAL_BLOCK
+  item_480:
+    v: 4189
+    type: LIGHT_GRAY_STAINED_GLASS
+  item_481:
+    v: 4189
+    type: RED_SHULKER_BOX
+  item_482:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_poison
+  item_483:
+    v: 4189
+    type: WHITE_STAINED_GLASS_PANE
+  item_484:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:projectile_protection: 4
+  item_485:
+    v: 4189
+    type: LAPIS_BLOCK
+  item_486:
+    v: 4189
+    type: BAMBOO_RAFT
+  item_487:
+    v: 4189
+    type: BROWN_BANNER
+  item_488:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:density: 1
+  item_489:
+    v: 4189
+    type: MAGENTA_STAINED_GLASS_PANE
+  item_490:
+    v: 4189
+    type: SMITHING_TABLE
+  item_491:
+    v: 4189
+    type: OAK_SAPLING
+  item_492:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  item_493:
+    v: 4189
+    type: IRON_GOLEM_SPAWN_EGG
+  item_494:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:efficiency: 1
+  item_495:
+    v: 4189
+    type: IRON_AXE
+  item_496:
+    v: 4189
+    type: DEEPSLATE_TILE_SLAB
+  item_497:
+    v: 4189
+    type: MANGROVE_TRAPDOOR
+  item_498:
+    v: 4189
+    type: POPPED_CHORUS_FRUIT
+  item_499:
+    v: 4189
+    type: DUNE_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_500:
+    v: 4189
+    type: EXPOSED_CUT_COPPER
+  item_501:
+    v: 4189
+    type: OAK_BOAT
+  item_502:
+    v: 4189
+    type: FIREWORK_STAR
+  item_503:
+    v: 4189
+    type: STONE_SLAB
+  item_504:
+    v: 4189
+    type: COBBLESTONE
+  item_505:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:efficiency: 2
+  item_506:
+    v: 4189
+    type: CRAFTING_TABLE
+  item_507:
+    v: 4189
+    type: WOODEN_AXE
+  item_508:
+    v: 4189
+    type: JUKEBOX
+  item_509:
+    v: 4189
+    type: BAMBOO
+  item_510:
+    v: 4189
+    type: BELL
+  item_511:
+    v: 4189
+    type: REPEATER
+  item_512:
+    v: 4189
+    type: PRISMARINE_SHARD
+  item_513:
+    v: 4189
+    type: CYAN_BED
+  item_514:
+    v: 4189
+    type: CYAN_WOOL
+  item_515:
+    v: 4189
+    type: LIGHT_BLUE_SHULKER_BOX
+  item_516:
+    v: 4189
+    type: SADDLE
+  item_517:
+    v: 4189
+    type: LIME_SHULKER_BOX
+  item_518:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:jump_boost
+          duration: 120
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_519:
+    v: 4189
+    type: MUSIC_DISC_CAT
+  item_520:
+    v: 4189
+    type: PURPLE_BED
+  item_521:
+    v: 4189
+    type: BLUE_GLAZED_TERRACOTTA
+  item_522:
+    v: 4189
+    type: RABBIT_FOOT
+  item_523:
+    v: 4189
+    type: CRIMSON_SLAB
+  item_524:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water
+  item_525:
+    v: 4189
+    type: OXEYE_DAISY
+  item_526:
+    v: 4189
+    type: AMETHYST_BLOCK
+  item_527:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_harming
+  item_528:
+    v: 4189
+    type: CHERRY_SIGN
+  item_529:
+    v: 4189
+    type: MOSSY_COBBLESTONE_STAIRS
+  item_530:
+    v: 4189
+    type: WAXED_CUT_COPPER_SLAB
+  item_531:
+    v: 4189
+    type: DARK_OAK_HANGING_SIGN
+  item_532:
+    v: 4189
+    type: BLUE_CONCRETE_POWDER
+  item_533:
+    v: 4189
+    type: TROPICAL_FISH_BUCKET
+  item_534:
+    v: 4189
+    type: WITHER_SKELETON_SKULL
+  item_535:
+    v: 4189
+    type: NETHERITE_LEGGINGS
+  item_536:
+    v: 4189
+    type: SPRUCE_BUTTON
+  item_537:
+    v: 4189
+    type: SHELTER_POTTERY_SHERD
+  item_538:
+    v: 4189
+    type: BONE_MEAL
+  item_539:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:blast_protection: 2
+  item_540:
+    v: 4189
+    type: GOLDEN_APPLE
+  item_541:
+    v: 4189
+    type: PORKCHOP
+  item_542:
+    v: 4189
+    type: MOSSY_STONE_BRICK_SLAB
+  item_543:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:feather_falling: 1
+  item_544:
+    v: 4189
+    type: CHERRY_LOG
+  item_545:
+    v: 4189
+    type: GREEN_WOOL
+  item_546:
+    v: 4189
+    type: BLACK_CONCRETE
+  item_547:
+    v: 4189
+    type: WARPED_ROOTS
+  item_548:
+    v: 4189
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"ᴄᴏᴍᴍᴏɴ ᴘɪᴄᴋᴀxᴇ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"#3CA720"}]}'
+      enchants:
+        minecraft:efficiency: 2
+        minecraft:fortune: 1
+  item_549:
+    v: 4189
+    type: COAL_ORE
+  item_550:
+    v: 4189
+    type: SEA_LANTERN
+  item_551:
+    v: 4189
+    type: ANDESITE_SLAB
+  item_552:
+    v: 4189
+    type: COMPOSTER
+  item_553:
+    v: 4189
+    type: SPRUCE_WOOD
+  item_554:
+    v: 4189
+    type: DIRT
+  item_555:
+    v: 4189
+    type: WAXED_CUT_COPPER_STAIRS
+  item_556:
+    v: 4189
+    type: SNOW_GOLEM_SPAWN_EGG
+  item_557:
+    v: 4189
+    type: GOLDEN_PICKAXE
+  item_558:
+    v: 4189
+    type: JUNGLE_PLANKS
+  item_559:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:night_vision
+  item_560:
+    v: 4189
+    type: BROWN_GLAZED_TERRACOTTA
+  item_561:
+    v: 4189
+    type: CRIMSON_STEM
+  item_562:
+    v: 4189
+    type: PRISMARINE
+  item_563:
+    v: 4189
+    type: BLUE_WOOL
+  item_564:
+    v: 4189
+    type: POLISHED_BLACKSTONE_BRICK_SLAB
+  item_565:
+    v: 4189
+    type: BAMBOO_STAIRS
+  item_566:
+    v: 4189
+    type: ACACIA_FENCE
+  item_567:
+    v: 4189
+    type: ACACIA_SAPLING
+  item_568:
+    v: 4189
+    type: BRICK_SLAB
+  item_569:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:leaping
+  item_570:
+    v: 4189
+    type: INFESTED_CRACKED_STONE_BRICKS
+  item_571:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:blast_protection: 1
+  item_572:
+    v: 4189
+    type: RAW_IRON
+  item_573:
+    v: 4189
+    type: WHITE_BANNER
+  item_574:
+    v: 4189
+    type: WHITE_DYE
+  item_575:
+    v: 4189
+    type: ORANGE_GLAZED_TERRACOTTA
+  item_576:
+    v: 4189
+    type: GLOW_LICHEN
+  item_577:
+    v: 4189
+    type: STRIPPED_WARPED_HYPHAE
+  item_578:
+    v: 4189
+    type: YELLOW_SHULKER_BOX
+  item_579:
+    v: 4189
+    type: PIGLIN_BANNER_PATTERN
+  item_580:
+    v: 4189
+    type: EMERALD_BLOCK
+  item_581:
+    v: 4189
+    type: SKULL_POTTERY_SHERD
+  item_582:
+    v: 4189
+    type: BRICK
+  item_583:
+    v: 4189
+    type: GOLD_ORE
+  item_584:
+    v: 4189
+    type: BAMBOO_MOSAIC_SLAB
+  item_585:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:oozing
+  item_586:
+    v: 4189
+    type: PINK_CONCRETE
+  item_587:
+    v: 4189
+    type: AMETHYST_SHARD
+  item_588:
+    v: 4189
+    type: WHITE_CANDLE
+  item_589:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fire_protection: 2
+  item_590:
+    v: 4189
+    type: STRIPPED_BAMBOO_BLOCK
+  item_591:
+    v: 4189
+    type: CHERRY_HANGING_SIGN
+  item_592:
+    v: 4189
+    type: BIRCH_FENCE
+  item_593:
+    v: 4189
+    type: YELLOW_CONCRETE
+  item_594:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:fire_resistance
+  item_595:
+    v: 4189
+    type: CHERRY_SLAB
+  item_596:
+    v: 4189
+    type: MOSSY_STONE_BRICKS
+  item_597:
+    v: 4189
+    type: DEAD_TUBE_CORAL_FAN
+  item_598:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:weakness
+  item_599:
+    v: 4189
+    type: OAK_LOG
+  item_600:
+    v: 4189
+    type: LOOM
+  item_601:
+    v: 4189
+    type: BROWN_STAINED_GLASS_PANE
+  item_602:
+    v: 4189
+    type: GLOW_BERRIES
+  item_603:
+    v: 4189
+    type: STRIPPED_WARPED_STEM
+  item_604:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:leaping
+  item_605:
+    v: 4189
+    type: SPRUCE_PRESSURE_PLATE
+  item_606:
+    v: 4189
+    type: SNIFFER_EGG
+  item_607:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:loyalty: 3
+  item_608:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sweeping_edge: 2
+  item_609:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:soul_speed: 3
+  item_610:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:fire_resistance
+  item_611:
+    v: 4189
+    type: CHERRY_LEAVES
+  item_612:
+    v: 4189
+    type: WARPED_STAIRS
+  item_613:
+    v: 4189
+    type: MUD_BRICK_SLAB
+  item_614:
+    v: 4189
+    type: WHITE_BED
+  item_615:
+    v: 4189
+    type: RED_DYE
+  item_616:
+    v: 4189
+    type: GOLDEN_HELMET
+  item_617:
+    v: 4189
+    type: DIAMOND_LEGGINGS
+  item_618:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:knockback: 2
+  item_619:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:bane_of_arthropods: 2
+  item_620:
+    v: 4189
+    type: TUBE_CORAL_BLOCK
+  item_621:
+    v: 4189
+    type: MAGENTA_TERRACOTTA
+  item_622:
+    v: 4189
+    type: SHULKER_BOX
+  item_623:
+    v: 4189
+    type: ACACIA_CHEST_BOAT
+  item_624:
+    v: 4189
+    type: SMOOTH_QUARTZ_STAIRS
+  item_625:
+    v: 4189
+    type: CAMEL_SPAWN_EGG
+  item_626:
+    v: 4189
+    type: LEATHER_HELMET
+  item_627:
+    v: 4189
+    type: YELLOW_BANNER
+  item_628:
+    v: 4189
+    type: REINFORCED_DEEPSLATE
+  item_629:
+    v: 4189
+    type: YELLOW_STAINED_GLASS_PANE
+  item_630:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:smite: 1
+  item_631:
+    v: 4189
+    type: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_632:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:weakness
+  item_633:
+    v: 4189
+    type: SMOOTH_RED_SANDSTONE
+  item_634:
+    v: 4189
+    type: NETHERITE_SWORD
+  item_635:
+    v: 4189
+    type: DIORITE_STAIRS
+  item_636:
+    v: 4189
+    type: PURPLE_WOOL
+  item_637:
+    v: 4189
+    type: SCULK
+  item_638:
+    v: 4189
+    type: ACACIA_PLANKS
+  item_639:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_poison
+  item_640:
+    v: 4189
+    type: NETHER_QUARTZ_ORE
+  item_641:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:luck_of_the_sea: 3
+  item_642:
+    v: 4189
+    type: GRAY_SHULKER_BOX
+  item_643:
+    v: 4189
+    type: GREEN_BED
+  item_644:
+    v: 4189
+    type: ARMS_UP_POTTERY_SHERD
+  item_645:
+    v: 4189
+    type: YELLOW_DYE
+  item_646:
+    v: 4189
+    type: LIGHT_GRAY_BED
+  item_647:
+    v: 4189
+    type: RED_CONCRETE_POWDER
+  item_648:
+    v: 4189
+    type: WOODEN_SWORD
+  item_649:
+    v: 4189
+    type: CHEST
+  item_650:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:soul_speed: 1
+  item_651:
+    v: 4189
+    type: MOSSY_STONE_BRICK_STAIRS
+  item_652:
+    v: 4189
+    type: CARTOGRAPHY_TABLE
+  item_653:
+    v: 4189
+    type: LIME_TERRACOTTA
+  item_654:
+    v: 4189
+    type: OXIDIZED_CUT_COPPER_SLAB
+  item_655:
+    v: 4189
+    type: SALMON
+  item_656:
+    v: 4189
+    type: WARPED_PLANKS
+  item_657:
+    v: 4189
+    type: OAK_SIGN
+  item_658:
+    v: 4189
+    type: BLACK_DYE
+  item_659:
+    v: 4189
+    type: CLOCK
+  item_660:
+    v: 4189
+    type: BAMBOO_TRAPDOOR
+  item_661:
+    v: 4189
+    type: RED_BED
+  item_662:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sharpness: 4
+  item_663:
+    v: 4189
+    type: WAXED_OXIDIZED_CUT_COPPER_SLAB
+  item_664:
+    v: 4189
+    type: OXIDIZED_CUT_COPPER
+  item_665:
+    v: 4189
+    type: BAMBOO_MOSAIC_STAIRS
+  item_666:
+    v: 4189
+    type: YELLOW_CARPET
+  item_667:
+    v: 4189
+    type: ORANGE_BANNER
+  item_668:
+    v: 4189
+    type: RED_MUSHROOM
+  item_669:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:turtle_master
+  item_670:
+    v: 4189
+    type: BLACK_CARPET
+  item_671:
+    v: 4189
+    type: WAXED_EXPOSED_CUT_COPPER_SLAB
+  item_672:
+    v: 4189
+    type: MANGROVE_PRESSURE_PLATE
+  item_673:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fire_aspect: 1
+  item_674:
+    v: 4189
+    type: GOLD_NUGGET
+  item_675:
+    v: 4189
+    type: MANGROVE_BUTTON
+  item_676:
+    v: 4189
+    type: ACTIVATOR_RAIL
+  item_677:
+    v: 4189
+    type: CYAN_CONCRETE
+  item_678:
+    v: 4189
+    type: MUD_BRICKS
+  item_679:
+    v: 4189
+    type: COOKED_BEEF
+  item_680:
+    v: 4189
+    type: HEART_POTTERY_SHERD
+  item_681:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:oozing
+  item_682:
+    v: 4189
+    type: SHEAF_POTTERY_SHERD
+  item_683:
+    v: 4189
+    type: BRAIN_CORAL_FAN
+  item_684:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:night_vision
+  item_685:
+    v: 4189
+    type: SLIME_BLOCK
+  item_686:
+    v: 4189
+    type: DEEPSLATE_BRICKS
+  item_687:
+    v: 4189
+    type: CANDLE
+  item_688:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:flame: 1
+  item_689:
+    v: 4189
+    type: JUNGLE_LOG
+  item_690:
+    v: 4189
+    type: ACACIA_PRESSURE_PLATE
+  item_691:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:wither
+          duration: 160
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_692:
+    v: 4189
+    type: GOLDEN_HOE
+  item_693:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_leaping
+  item_694:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  item_695:
+    v: 4189
+    type: IRON_SHOVEL
+  item_696:
+    v: 4189
+    type: BIRCH_TRAPDOOR
+  item_697:
+    v: 4189
+    type: MANGROVE_ROOTS
+  item_698:
+    v: 4189
+    type: SOUL_TORCH
+  item_699:
+    v: 4189
+    type: DIORITE
+  item_700:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_regeneration
+  item_701:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:loyalty: 1
+  item_702:
+    v: 4189
+    type: LIGHT_GRAY_WOOL
+  item_703:
+    v: 4189
+    type: ENCHANTING_TABLE
+  item_704:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:healing
+  item_705:
+    v: 4189
+    type: FRIEND_POTTERY_SHERD
+  item_706:
+    v: 4189
+    type: INK_SAC
+  item_707:
+    v: 4189
+    type: DARK_OAK_LOG
+  item_708:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:smite: 2
+  item_709:
+    v: 4189
+    type: GRAY_CANDLE
+  item_710:
+    v: 4189
+    type: POWDER_SNOW_BUCKET
+  item_711:
+    v: 4189
+    type: STRIPPED_BIRCH_WOOD
+  item_712:
+    v: 4189
+    type: STONECUTTER
+  item_713:
+    v: 4189
+    type: BIRCH_CHEST_BOAT
+  item_714:
+    v: 4189
+    type: STONE_SWORD
+  item_715:
+    v: 4189
+    type: CRACKED_STONE_BRICKS
+  item_716:
+    v: 4189
+    type: TURTLE_EGG
+  item_717:
+    v: 4189
+    type: RABBIT
+  item_718:
+    v: 4189
+    type: DEAD_FIRE_CORAL_BLOCK
+  item_719:
+    v: 4189
+    type: IRON_SWORD
+  item_720:
+    v: 4189
+    type: DAMAGED_ANVIL
+  item_721:
+    v: 4189
+    type: DEAD_BRAIN_CORAL_BLOCK
+  item_722:
+    v: 4189
+    type: CUT_COPPER_SLAB
+  item_723:
+    v: 4189
+    type: WAXED_COPPER_BLOCK
+  item_724:
+    v: 4189
+    type: DIAMOND_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"ᴄᴏᴍᴍᴏɴ sʜᴏᴠᴇʟ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"#3CA720"}]}'
+      enchants:
+        minecraft:efficiency: 3
+  item_725:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:weaving
+  item_726:
+    v: 4189
+    type: CYAN_SHULKER_BOX
+  item_727:
+    v: 4189
+    type: BIRCH_PLANKS
+  item_728:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water
+  item_729:
+    v: 4189
+    type: RED_SANDSTONE
+  item_730:
+    v: 4189
+    type: CYAN_BANNER
+  item_731:
+    v: 4189
+    type: STRIPPED_SPRUCE_WOOD
+  item_732:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:feather_falling: 3
+  item_733:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_leaping
+  item_734:
+    v: 4189
+    type: SOUL_SOIL
+  item_735:
+    v: 4189
+    type: PURPLE_CARPET
+  item_736:
+    v: 4189
+    type: CHISELED_POLISHED_BLACKSTONE
+  item_737:
+    v: 4189
+    type: WET_SPONGE
+  item_738:
+    v: 4189
+    type: DEEPSLATE_TILES
+  item_739:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_poison
+  item_740:
+    v: 4189
+    type: CHISELED_RED_SANDSTONE
+  item_741:
+    v: 4189
+    type: CUT_SANDSTONE
+  item_742:
+    v: 4189
+    type: BOOKSHELF
+  item_743:
+    v: 4189
+    type: MANGROVE_FENCE
+  item_744:
+    v: 4189
+    type: DAYLIGHT_DETECTOR
+  item_745:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:efficiency: 5
+  item_746:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_regeneration
+  item_747:
+    v: 4189
+    type: YELLOW_CANDLE
+  item_748:
+    v: 4189
+    type: LEATHER
+  item_749:
+    v: 4189
+    type: PINK_STAINED_GLASS
+  item_750:
+    v: 4189
+    type: WARPED_HANGING_SIGN
+  item_751:
+    v: 4189
+    type: OAK_PLANKS
+  item_752:
+    v: 4189
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"text":"","extra":[{"text":"ᴄᴏᴍᴍᴏɴ sᴡᴏʀᴅ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"#3CA720"}]}'
+      enchants:
+        minecraft:looting: 2
+        minecraft:sharpness: 1
+  item_753:
+    v: 4189
+    type: PRISMARINE_BRICK_SLAB
+  item_754:
+    v: 4189
+    type: IRON_LEGGINGS
+  item_755:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:infinity: 1
+  item_756:
+    v: 4189
+    type: DIAMOND_ORE
+  item_757:
+    v: 4189
+    type: GRAVEL
+  item_758:
+    v: 4189
+    type: WHITE_TULIP
+  item_759:
+    v: 4189
+    type: PURPLE_STAINED_GLASS_PANE
+  item_760:
+    v: 4189
+    type: GREEN_STAINED_GLASS_PANE
+  item_761:
+    v: 4189
+    type: BEACON
+  item_762:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:healing
+  item_763:
+    v: 4189
+    type: DARK_OAK_SLAB
+  item_764:
+    v: 4189
+    type: LIGHT_BLUE_BANNER
+  item_765:
+    v: 4189
+    type: DRAGON_HEAD
+  item_766:
+    v: 4189
+    type: IRON_BLOCK
+  item_767:
+    v: 4189
+    type: MUSHROOM_STEM
+  item_768:
+    v: 4189
+    type: ORANGE_CONCRETE_POWDER
+  item_769:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:swift_sneak: 2
+  item_770:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:invisibility
+  item_771:
+    v: 4189
+    type: LIGHT_GRAY_CANDLE
+  item_772:
+    v: 4189
+    type: STONE_BRICK_SLAB
+  item_773:
+    v: 4189
+    type: POLISHED_GRANITE_STAIRS
+  item_774:
+    v: 4189
+    type: LIGHT_BLUE_BED
+  item_775:
+    v: 4189
+    type: CALCITE
+  item_776:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:riptide: 2
+  item_777:
+    v: 4189
+    type: PURPLE_CONCRETE
+  item_778:
+    v: 4189
+    type: RED_BANNER
+  item_779:
+    v: 4189
+    type: PEONY
+  item_780:
+    v: 4189
+    type: SPRUCE_TRAPDOOR
+  item_781:
+    v: 4189
+    type: BIRCH_HANGING_SIGN
+  item_782:
+    v: 4189
+    type: FIRE_CORAL_FAN
+  item_783:
+    v: 4189
+    type: BARREL
+  item_784:
+    v: 4189
+    type: EMERALD_ORE
+  item_785:
+    v: 4189
+    type: PUFFERFISH_BUCKET
+  item_786:
+    v: 4189
+    type: NETHERITE_BLOCK
+  item_787:
+    v: 4189
+    type: BLACKSTONE_STAIRS
+  item_788:
+    v: 4189
+    type: SHULKER_SHELL
+  item_789:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:weaving
+  item_790:
+    v: 4189
+    type: BLUE_CANDLE
+  item_791:
+    v: 4189
+    type: MANGROVE_CHEST_BOAT
+  item_792:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:unbreaking: 3
+  item_793:
+    v: 4189
+    type: POLISHED_DIORITE_SLAB
+  item_794:
+    v: 4189
+    type: NETHER_SPROUTS
+  item_795:
+    v: 4189
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:ponder_goat_horn
+  item_796:
+    v: 4189
+    type: SANDSTONE
+  item_797:
+    v: 4189
+    type: LARGE_AMETHYST_BUD
+  item_798:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:lure: 1
+  item_799:
+    v: 4189
+    type: OAK_FENCE
+  item_800:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:protection: 3
+  item_801:
+    v: 4189
+    type: DARK_OAK_PLANKS
+  item_802:
+    v: 4189
+    type: DEAD_BUBBLE_CORAL_BLOCK
+  item_803:
+    v: 4189
+    type: LIGHT_BLUE_STAINED_GLASS_PANE
+  item_804:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:weakness
+  item_805:
+    v: 4189
+    type: CHERRY_BUTTON
+  item_806:
+    v: 4189
+    type: LIGHT_GRAY_GLAZED_TERRACOTTA
+  item_807:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_slowness
+  item_808:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_regeneration
+  item_809:
+    v: 4189
+    type: WATER_BUCKET
+  item_810:
+    v: 4189
+    type: CYAN_CONCRETE_POWDER
+  item_811:
+    v: 4189
+    type: MANGROVE_PROPAGULE
+  item_812:
+    v: 4189
+    type: WARPED_FENCE_GATE
+  item_813:
+    v: 4189
+    type: HONEY_BLOCK
+  item_814:
+    v: 4189
+    type: MAGENTA_CANDLE
+  item_815:
+    v: 4189
+    type: FLOWERING_AZALEA_LEAVES
+  item_816:
+    v: 4189
+    type: BLUE_BED
+  item_817:
+    v: 4189
+    type: WARPED_PRESSURE_PLATE
+  item_818:
+    v: 4189
+    type: JUNGLE_FENCE
+  item_819:
+    v: 4189
+    type: ORANGE_STAINED_GLASS_PANE
+  item_820:
+    v: 4189
+    type: PRIZE_POTTERY_SHERD
+  item_821:
+    v: 4189
+    type: SNIFFER_SPAWN_EGG
+  item_822:
+    v: 4189
+    type: INFESTED_COBBLESTONE
+  item_823:
+    v: 4189
+    type: POLISHED_BASALT
+  item_824:
+    v: 4189
+    type: PURPUR_STAIRS
+  item_825:
+    v: 4189
+    type: DRAGON_BREATH
+  item_826:
+    v: 4189
+    type: LEATHER_LEGGINGS
+  item_827:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:aqua_affinity: 1
+  item_828:
+    v: 4189
+    type: JUNGLE_CHEST_BOAT
+  item_829:
+    v: 4189
+    type: BIRCH_SIGN
+  item_830:
+    v: 4189
+    type: CHERRY_DOOR
+  item_831:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:impaling: 2
+  item_832:
+    v: 4189
+    type: SNOW_BLOCK
+  item_833:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:regeneration
+  item_834:
+    v: 4189
+    type: LIGHT_GRAY_TERRACOTTA
+  item_835:
+    v: 4189
+    type: BONE
+  item_836:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_poison
+  item_837:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:infested
+  item_838:
+    v: 4189
+    type: GREEN_SHULKER_BOX
+  item_839:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fire_protection: 3
+  item_840:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:thorns: 3
+  item_841:
+    v: 4189
+    type: ACACIA_WOOD
+  item_842:
+    v: 4189
+    type: BROWN_CONCRETE
+  item_843:
+    v: 4189
+    type: PACKED_MUD
+  item_844:
+    v: 4189
+    type: PINK_STAINED_GLASS_PANE
+  item_845:
+    v: 4189
+    type: FROGSPAWN
+  item_846:
+    v: 4189
+    type: AZALEA
+  item_847:
+    v: 4189
+    type: MAGMA_BLOCK
+  item_848:
+    v: 4189
+    type: CROSSBOW
+  item_849:
+    v: 4189
+    type: INFESTED_STONE_BRICKS
+  item_850:
+    v: 4189
+    type: LIGHT_BLUE_DYE
+  item_851:
+    v: 4189
+    type: CHAINMAIL_BOOTS
+  item_852:
+    v: 4189
+    type: VINE
+  item_853:
+    v: 4189
+    type: GRINDSTONE
+  item_854:
+    v: 4189
+    type: DRAGON_EGG
+  item_855:
+    v: 4189
+    type: WHITE_WOOL
+  item_856:
+    v: 4189
+    type: BAMBOO_DOOR
+  item_857:
+    v: 4189
+    type: PURPLE_DYE
+  item_858:
+    v: 4189
+    type: POLISHED_ANDESITE_STAIRS
+  item_859:
+    v: 4189
+    type: RED_SAND
+  item_860:
+    v: 4189
+    type: GRAY_TERRACOTTA
+  item_861:
+    v: 4189
+    type: MUD
+  item_862:
+    v: 4189
+    type: SMOOTH_BASALT
+  item_863:
+    v: 4189
+    type: IRON_HELMET
+  item_864:
+    v: 4189
+    type: LIGHT_GRAY_SHULKER_BOX
+  item_865:
+    v: 4189
+    type: BUBBLE_CORAL_FAN
+  item_866:
+    v: 4189
+    type: BROWN_CONCRETE_POWDER
+  item_867:
+    v: 4189
+    type: CRIMSON_DOOR
+  item_868:
+    v: 4189
+    type: LIGHT_BLUE_CARPET
+  item_869:
+    v: 4189
+    type: LARGE_FERN
+  item_870:
+    v: 4189
+    type: POLISHED_BLACKSTONE_BUTTON
+  item_871:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:mundane
+  item_872:
+    v: 4189
+    type: SNOWBALL
+  item_873:
+    v: 4189
+    type: ORANGE_BED
+  item_874:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:bane_of_arthropods: 1
+  item_875:
+    v: 4189
+    type: CHISELED_DEEPSLATE
+  item_876:
+    v: 4189
+    type: SPRUCE_LOG
+  item_877:
+    v: 4189
+    type: NETHER_WART_BLOCK
+  item_878:
+    v: 4189
+    type: TORCHFLOWER
+  item_879:
+    v: 4189
+    type: BRAIN_CORAL
+  item_880:
+    v: 4189
+    type: BAMBOO_SLAB
+  item_881:
+    v: 4189
+    type: FEATHER
+  item_882:
+    v: 4189
+    type: SEA_PICKLE
+  item_883:
+    v: 4189
+    type: END_CRYSTAL
+  item_884:
+    v: 4189
+    type: WEEPING_VINES
+  item_885:
+    v: 4189
+    type: CRIMSON_TRAPDOOR
+  item_886:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sharpness: 1
+  item_887:
+    v: 4189
+    type: JUNGLE_SLAB
+  item_888:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:piercing: 1
+  item_889:
+    v: 4189
+    type: BEETROOT
+  item_890:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:breach: 3
+  item_891:
+    v: 4189
+    type: MAGENTA_STAINED_GLASS
+  item_892:
+    v: 4189
+    type: COBBLESTONE_STAIRS
+  item_893:
+    v: 4189
+    type: BAMBOO_FENCE
+  item_894:
+    v: 4189
+    type: BIRCH_SLAB
+  item_895:
+    v: 4189
+    type: INFESTED_MOSSY_STONE_BRICKS
+  item_896:
+    v: 4189
+    type: BLACK_STAINED_GLASS_PANE
+  item_897:
+    v: 4189
+    type: WARPED_WART_BLOCK
+  item_898:
+    v: 4189
+    type: LECTERN
+  item_899:
+    v: 4189
+    type: BROWN_STAINED_GLASS
+  item_900:
+    v: 4189
+    type: NETHERITE_INGOT
+  item_901:
+    v: 4189
+    type: MANGROVE_SIGN
+  item_902:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_invisibility
+  item_903:
+    v: 4189
+    type: GLOWSTONE
+  item_904:
+    v: 4189
+    type: STRIPPED_OAK_WOOD
+  item_905:
+    v: 4189
+    type: AZURE_BLUET
+  item_906:
+    v: 4189
+    type: DIAMOND
+  item_907:
+    v: 4189
+    type: DETECTOR_RAIL
+  item_908:
+    v: 4189
+    type: PURPLE_CONCRETE_POWDER
+  item_909:
+    v: 4189
+    type: BAMBOO_MOSAIC
+  item_910:
+    v: 4189
+    type: WAXED_OXIDIZED_CUT_COPPER_STAIRS
+  item_911:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:mundane
+  item_912:
+    v: 4189
+    type: PUFFERFISH
+  item_913:
+    v: 4189
+    type: FIREWORK_ROCKET
+  item_914:
+    v: 4189
+    type: CUT_COPPER_STAIRS
+  item_915:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:breach: 4
+  item_916:
+    v: 4189
+    type: ORANGE_WOOL
+  item_917:
+    v: 4189
+    type: EGG
+  item_918:
+    v: 4189
+    type: HAY_BLOCK
+  item_919:
+    v: 4189
+    type: TARGET
+  item_920:
+    v: 4189
+    type: GRAY_BED
+  item_921:
+    v: 4189
+    type: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_922:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_harming
+  item_923:
+    v: 4189
+    type: LIME_CANDLE
+  item_924:
+    v: 4189
+    type: OAK_STAIRS
+  item_925:
+    v: 4189
+    type: DRIED_KELP
+  item_926:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_night_vision
+  item_927:
+    v: 4189
+    type: JUNGLE_FENCE_GATE
+  item_928:
+    v: 4189
+    type: NETHERITE_PICKAXE
+  item_929:
+    v: 4189
+    type: RAW_COPPER_BLOCK
+  item_930:
+    v: 4189
+    type: SHEARS
+  item_931:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:awkward
+  item_932:
+    v: 4189
+    type: CRACKED_NETHER_BRICKS
+  item_933:
+    v: 4189
+    type: POLISHED_GRANITE
+  item_934:
+    v: 4189
+    type: SPRUCE_FENCE
+  item_935:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:quick_charge: 2
+  item_936:
+    v: 4189
+    type: OAK_SLAB
+  item_937:
+    v: 4189
+    type: PEARLESCENT_FROGLIGHT
+  item_938:
+    v: 4189
+    type: LILY_PAD
+  item_939:
+    v: 4189
+    type: ENDER_CHEST
+  item_940:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:poison
+  item_941:
+    v: 4189
+    type: DEEPSLATE_IRON_ORE
+  item_942:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:lure: 3
+  item_943:
+    v: 4189
+    type: EXPERIENCE_BOTTLE
+  item_944:
+    v: 4189
+    type: GOLDEN_HORSE_ARMOR
+  item_945:
+    v: 4189
+    type: DIAMOND_BOOTS
+  item_946:
+    v: 4189
+    type: PAPER
+  item_947:
+    v: 4189
+    type: MUDDY_MANGROVE_ROOTS
+  item_948:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:efficiency: 3
+  item_949:
+    v: 4189
+    type: LAVA_BUCKET
+  item_950:
+    v: 4189
+    type: MAGENTA_BANNER
+  item_951:
+    v: 4189
+    type: MOSS_BLOCK
+  item_952:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slowness
+  item_953:
+    v: 4189
+    type: WITHER_ROSE
+  item_954:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_night_vision
+  item_955:
+    v: 4189
+    type: RAISER_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_956:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:night_vision
+  item_957:
+    v: 4189
+    type: CRIMSON_FUNGUS
+  item_958:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:awkward
+  item_959:
+    v: 4189
+    type: ROTTEN_FLESH
+  item_960:
+    v: 4189
+    type: COOKED_COD
+  item_961:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_harming
+  item_962:
+    v: 4189
+    type: ECHO_SHARD
+  item_963:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:density: 3
+  item_964:
+    v: 4189
+    type: TUBE_CORAL
+  item_965:
+    v: 4189
+    type: CHERRY_BOAT
+  item_966:
+    v: 4189
+    type: MUSIC_DISC_STAL
+  item_967:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:impaling: 4
+  item_968:
+    v: 4189
+    type: YELLOW_BED
+  item_969:
+    v: 4189
+    type: MAGENTA_SHULKER_BOX
+  item_970:
+    v: 4189
+    type: ACACIA_LEAVES
+  item_971:
+    v: 4189
+    type: PODZOL
+  item_972:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water
+  item_973:
+    v: 4189
+    type: COOKIE
+  item_974:
+    v: 4189
+    type: YELLOW_CONCRETE_POWDER
+  item_975:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:density: 4
+  item_976:
+    v: 4189
+    type: HOPPER
+  item_977:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:poison
+  item_978:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:saturation
+          duration: 7
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_979:
+    v: 4189
+    type: COOKED_CHICKEN
+  item_980:
+    v: 4189
+    type: NETHER_BRICK_SLAB
+  item_981:
+    v: 4189
+    type: NETHER_WART
+  item_982:
+    v: 4189
+    type: SPRUCE_DOOR
+  item_983:
+    v: 4189
+    type: DARK_OAK_LEAVES
+  item_984:
+    v: 4189
+    type: CONDUIT
+  item_985:
+    v: 4189
+    type: MAP
+  item_986:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_poison
+  item_987:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_slowness
+  item_988:
+    v: 4189
+    type: COBBLESTONE_SLAB
+  item_989:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:swiftness
+  item_990:
+    v: 4189
+    type: WHITE_CONCRETE_POWDER
+  item_991:
+    v: 4189
+    type: HORN_CORAL_FAN
+  item_992:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:invisibility
+  item_993:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:smite: 4
+  item_994:
+    v: 4189
+    type: MINER_POTTERY_SHERD
+  item_995:
+    v: 4189
+    type: CYAN_GLAZED_TERRACOTTA
+  item_996:
+    v: 4189
+    type: CLAY
+  item_997:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:thorns: 1
+  item_998:
+    v: 4189
+    type: SKULL_BANNER_PATTERN
+  item_999:
+    v: 4189
+    type: BIRCH_WOOD
+  item_1000:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:mending: 1
+  item_1001:
+    v: 4189
+    type: BLUE_DYE
+  item_1002:
+    v: 4189
+    type: MANGROVE_LEAVES
+  item_1003:
+    v: 4189
+    type: DEEPSLATE_BRICK_STAIRS
+  item_1004:
+    v: 4189
+    type: REDSTONE_ORE
+  item_1005:
+    v: 4189
+    type: ANCIENT_DEBRIS
+  item_1006:
+    v: 4189
+    type: LIGHT_BLUE_WOOL
+  item_1007:
+    v: 4189
+    type: BAMBOO_CHEST_RAFT
+  item_1008:
+    v: 4189
+    type: HONEYCOMB
+  item_1009:
+    v: 4189
+    type: GRAY_GLAZED_TERRACOTTA
+  item_1010:
+    v: 4189
+    type: JUNGLE_WOOD
+  item_1011:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:wind_charged
+  item_1012:
+    v: 4189
+    type: SOUL_LANTERN
+  item_1013:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:respiration: 1
+  item_1014:
+    v: 4189
+    type: LILAC
+  item_1015:
+    v: 4189
+    type: CHERRY_CHEST_BOAT
+  item_1016:
+    v: 4189
+    type: COARSE_DIRT
+  item_1017:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:projectile_protection: 3
+  item_1018:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:harming
+  item_1019:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_turtle_master
+  item_1020:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_slowness
+  item_1021:
+    v: 4189
+    type: CHIPPED_ANVIL
+  item_1022:
+    v: 4189
+    type: BUDDING_AMETHYST
+  item_1023:
+    v: 4189
+    type: RED_CONCRETE
+  item_1024:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slowness
+  item_1025:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water_breathing
+  item_1026:
+    v: 4189
+    type: LAPIS_ORE
+  item_1027:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:looting: 3
+  item_1028:
+    v: 4189
+    type: WAXED_OXIDIZED_CUT_COPPER
+  item_1029:
+    v: 4189
+    type: WARPED_NYLIUM
+  item_1030:
+    v: 4189
+    type: BROWN_MUSHROOM_BLOCK
+  item_1031:
+    v: 4189
+    type: DEAD_TUBE_CORAL
+  item_1032:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_water_breathing
+  item_1033:
+    v: 4189
+    type: SPORE_BLOSSOM
+  item_1034:
+    v: 4189
+    type: WHITE_SHULKER_BOX
+  item_1035:
+    v: 4189
+    type: BAMBOO_HANGING_SIGN
+  item_1036:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fortune: 3
+  item_1037:
+    v: 4189
+    type: GLASS_BOTTLE
+  item_1038:
+    v: 4189
+    type: DARK_OAK_WOOD
+  item_1039:
+    v: 4189
+    type: SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_1040:
+    v: 4189
+    type: ORANGE_CARPET
+  item_1041:
+    v: 4189
+    type: SALMON_BUCKET
+  item_1042:
+    v: 4189
+    type: SKELETON_SKULL
+  item_1043:
+    v: 4189
+    type: STRING
+  item_1044:
+    v: 4189
+    type: PETRIFIED_OAK_SLAB
+  item_1045:
+    v: 4189
+    type: RED_SANDSTONE_SLAB
+  item_1046:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_invisibility
+  item_1047:
+    v: 4189
+    type: MOURNER_POTTERY_SHERD
+  item_1048:
+    v: 4189
+    type: MUSIC_DISC_MALL
+  item_1049:
+    v: 4189
+    type: CAMPFIRE
+  item_1050:
+    v: 4189
+    type: HONEY_BOTTLE
+  item_1051:
+    v: 4189
+    type: LIGHTNING_ROD
+  item_1052:
+    v: 4189
+    type: OAK_BUTTON
+  item_1053:
+    v: 4189
+    type: MAGENTA_CONCRETE_POWDER
+  item_1054:
+    v: 4189
+    type: JUNGLE_STAIRS
+  item_1055:
+    v: 4189
+    type: LIME_CONCRETE
+  item_1056:
+    v: 4189
+    type: PINK_DYE
+  item_1057:
+    v: 4189
+    type: STRIPPED_DARK_OAK_LOG
+  item_1058:
+    v: 4189
+    type: DEAD_BRAIN_CORAL_FAN
+  item_1059:
+    v: 4189
+    type: MANGROVE_HANGING_SIGN
+  item_1060:
+    v: 4189
+    type: COPPER_ORE
+  item_1061:
+    v: 4189
+    type: MEDIUM_AMETHYST_BUD
+  item_1062:
+    v: 4189
+    type: JUNGLE_HANGING_SIGN
+  item_1063:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_fire_resistance
+  item_1064:
+    v: 4189
+    type: CHAINMAIL_CHESTPLATE
+  item_1065:
+    v: 4189
+    type: KNOWLEDGE_BOOK
+  item_1066:
+    v: 4189
+    type: BEETROOT_SOUP
+  item_1067:
+    v: 4189
+    type: CHISELED_QUARTZ_BLOCK
+  item_1068:
+    v: 4189
+    type: RAW_GOLD_BLOCK
+  item_1069:
+    v: 4189
+    type: ANDESITE
+  item_1070:
+    v: 4189
+    type: IRON_CHESTPLATE
+  item_1071:
+    v: 4189
+    type: SPYGLASS
+  item_1072:
+    v: 4189
+    type: ACACIA_BOAT
+  item_1073:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:blast_protection: 3
+  item_1074:
+    v: 4189
+    type: COMPASS
+    meta:
+      ==: ItemMeta
+      meta-type: COMPASS
+      LodestoneTracked: false
+  item_1075:
+    v: 4189
+    type: STRIPPED_ACACIA_LOG
+  item_1076:
+    v: 4189
+    type: STONE_SHOVEL
+  item_1077:
+    v: 4189
+    type: MELON_SLICE
+  item_1078:
+    v: 4189
+    type: JUNGLE_DOOR
+  item_1079:
+    v: 4189
+    type: LEATHER_HORSE_ARMOR
+  item_1080:
+    v: 4189
+    type: BLACK_GLAZED_TERRACOTTA
+  item_1081:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strength
+  item_1082:
+    v: 4189
+    type: LINGERING_POTION
+  item_1083:
+    v: 4189
+    type: WARPED_FUNGUS
+  item_1084:
+    v: 4189
+    type: CRIMSON_HYPHAE
+  item_1085:
+    v: 4189
+    type: SMOOTH_QUARTZ
+  item_1086:
+    v: 4189
+    type: BROWN_CANDLE
+  item_1087:
+    v: 4189
+    type: TRAPPED_CHEST
+  item_1088:
+    v: 4189
+    type: OAK_WOOD
+  item_1089:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:weaving
+  item_1090:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  item_1091:
+    v: 4189
+    type: BRAIN_CORAL_BLOCK
+  item_1092:
+    v: 4189
+    type: GLISTERING_MELON_SLICE
+  item_1093:
+    v: 4189
+    type: SAND
+  item_1094:
+    v: 4189
+    type: RED_MUSHROOM_BLOCK
+  item_1095:
+    v: 4189
+    type: GUNPOWDER
+  item_1096:
+    v: 4189
+    type: BLUE_CARPET
+  item_1097:
+    v: 4189
+    type: ORANGE_TULIP
+  item_1098:
+    v: 4189
+    type: LIGHT_BLUE_CANDLE
+  item_1099:
+    v: 4189
+    type: BREWER_POTTERY_SHERD
+  item_1100:
+    v: 4189
+    type: SUSPICIOUS_GRAVEL
+  item_1101:
+    v: 4189
+    type: MANGROVE_STAIRS
+  item_1102:
+    v: 4189
+    type: PISTON
+  item_1103:
+    v: 4189
+    type: TINTED_GLASS
+  item_1104:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_fire_resistance
+  item_1105:
+    v: 4189
+    type: CREEPER_BANNER_PATTERN
+  item_1106:
+    v: 4189
+    type: OXIDIZED_COPPER
+  item_1107:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:power: 2
+  item_1108:
+    v: 4189
+    type: YELLOW_TERRACOTTA
+  item_1109:
+    v: 4189
+    type: STRIPPED_CRIMSON_STEM
+  item_1110:
+    v: 4189
+    type: GOLDEN_CHESTPLATE
+  item_1111:
+    v: 4189
+    type: STRIPPED_JUNGLE_WOOD
+  item_1112:
+    v: 4189
+    type: WARPED_HYPHAE
+  item_1113:
+    v: 4189
+    type: SCAFFOLDING
+  item_1114:
+    v: 4189
+    type: FLETCHING_TABLE
+  item_1115:
+    v: 4189
+    type: CHAIN
+  item_1116:
+    v: 4189
+    type: REDSTONE
+  item_1117:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:regeneration
+  item_1118:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slow_falling
+  item_1119:
+    v: 4189
+    type: IRON_BOOTS
+  item_1120:
+    v: 4189
+    type: SPRUCE_BOAT
+  item_1121:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_swiftness
+  item_1122:
+    v: 4189
+    type: GLOWSTONE_DUST
+  item_1123:
+    v: 4189
+    type: CRACKED_DEEPSLATE_BRICKS
+  item_1124:
+    v: 4189
+    type: LIGHT_WEIGHTED_PRESSURE_PLATE
+  item_1125:
+    v: 4189
+    type: CHERRY_SAPLING
+  item_1126:
+    v: 4189
+    type: LIME_BED
+  item_1127:
+    v: 4189
+    type: NETHERITE_CHESTPLATE
+  item_1128:
+    v: 4189
+    type: FLINT
+  item_1129:
+    v: 4189
+    type: SHIELD
+  item_1130:
+    v: 4189
+    type: FLOWER_BANNER_PATTERN
+  item_1131:
+    v: 4189
+    type: SPRUCE_SIGN
+  item_1132:
+    v: 4189
+    type: DIAMOND_HELMET
+  item_1133:
+    v: 4189
+    type: TIDE_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_1134:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  item_1135:
+    v: 4189
+    type: SPIDER_EYE
+  item_1136:
+    v: 4189
+    type: BAKED_POTATO
+  item_1137:
+    v: 4189
+    type: NETHERITE_HELMET
+  item_1138:
+    v: 4189
+    type: REDSTONE_LAMP
+  item_1139:
+    v: 4189
+    type: DARK_OAK_PRESSURE_PLATE
+  item_1140:
+    v: 4189
+    type: HONEYCOMB_BLOCK
+  item_1141:
+    v: 4189
+    type: RAIL
+  item_1142:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:harming
+  item_1143:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_regeneration
+  item_1144:
+    v: 4189
+    type: DRIPSTONE_BLOCK
+  item_1145:
+    v: 4189
+    type: RED_WOOL
+  item_1146:
+    v: 4189
+    type: GOLD_INGOT
+  item_1147:
+    v: 4189
+    type: PRISMARINE_CRYSTALS
+  item_1148:
+    v: 4189
+    type: CREEPER_HEAD
+  item_1149:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:soul_speed: 2
+  item_1150:
+    v: 4189
+    type: MUSIC_DISC_BLOCKS
+  item_1151:
+    v: 4189
+    type: DEEPSLATE_BRICK_SLAB
+  item_1152:
+    v: 4189
+    type: BROWN_TERRACOTTA
+  item_1153:
+    v: 4189
+    type: BROWN_SHULKER_BOX
+  item_1154:
+    v: 4189
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      display-name: '{"text":"","extra":[{"text":"ᴄᴏᴍᴍᴏɴ ʙᴏᴏᴛs","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"#3CA720"}]}'
+      enchants:
+        minecraft:depth_strider: 2
+        minecraft:feather_falling: 2
+        minecraft:protection: 1
+      trim:
+        material: minecraft:emerald
+        pattern: minecraft:wild
+  item_1155:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_leaping
+  item_1156:
+    v: 4189
+    type: PRISMARINE_SLAB
+  item_1157:
+    v: 4189
+    type: GREEN_GLAZED_TERRACOTTA
+  item_1158:
+    v: 4189
+    type: MUSIC_DISC_WAIT
+  item_1159:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:bane_of_arthropods: 5
+  item_1160:
+    v: 4189
+    type: BLUE_ORCHID
+  item_1161:
+    v: 4189
+    type: WRITABLE_BOOK
+  item_1162:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_regeneration
+  item_1163:
+    v: 4189
+    type: LAPIS_LAZULI
+  item_1164:
+    v: 4189
+    type: SMOOTH_STONE_SLAB
+  item_1165:
+    v: 4189
+    type: BIRCH_FENCE_GATE
+  item_1166:
+    v: 4189
+    type: TUBE_CORAL_FAN
+  item_1167:
+    v: 4189
+    type: POISONOUS_POTATO
+  item_1168:
+    v: 4189
+    type: RED_CARPET
+  item_1169:
+    v: 4189
+    type: ORANGE_DYE
+  item_1170:
+    v: 4189
+    type: IRON_INGOT
+  item_1171:
+    v: 4189
+    type: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_1172:
+    v: 4189
+    type: POLISHED_ANDESITE
+  item_1173:
+    v: 4189
+    type: DEAD_BUSH
+  item_1174:
+    v: 4189
+    type: DARK_OAK_FENCE
+  item_1175:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:poison
+  item_1176:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:quick_charge: 1
+  item_1177:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_night_vision
+  item_1178:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_slowness
+  item_1179:
+    v: 4189
+    type: BLACK_CANDLE
+  item_1180:
+    v: 4189
+    type: SPRUCE_FENCE_GATE
+  item_1181:
+    v: 4189
+    type: LIGHT_BLUE_STAINED_GLASS
+  item_1182:
+    v: 4189
+    type: MOSSY_COBBLESTONE_SLAB
+  item_1183:
+    v: 4189
+    type: WAXED_WEATHERED_COPPER
+  item_1184:
+    v: 4189
+    type: DARK_OAK_TRAPDOOR
+  item_1185:
+    v: 4189
+    type: WAXED_WEATHERED_CUT_COPPER_SLAB
+  item_1186:
+    v: 4189
+    type: VEX_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_1187:
+    v: 4189
+    type: OAK_TRAPDOOR
+  item_1188:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:invisibility
+  item_1189:
+    v: 4189
+    type: CARROT
+  item_1190:
+    v: 4189
+    type: BROWN_CARPET
+  item_1191:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:fire_resistance
+          duration: 80
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_1192:
+    v: 4189
+    type: NETHER_STAR
+  item_1193:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:regeneration
+          duration: 160
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_1194:
+    v: 4189
+    type: RED_SANDSTONE_STAIRS
+  item_1195:
+    v: 4189
+    type: WAXED_OXIDIZED_COPPER
+  item_1196:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:healing
+  item_1197:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_slowness
+  item_1198:
+    v: 4189
+    type: ACACIA_SIGN
+  item_1199:
+    v: 4189
+    type: HORN_CORAL_BLOCK
+  item_1200:
+    v: 4189
+    type: LIGHT_GRAY_CONCRETE_POWDER
+  item_1201:
+    v: 4189
+    type: GRAY_WOOL
+  item_1202:
+    v: 4189
+    type: BROWN_DYE
+  item_1203:
+    v: 4189
+    type: GOLDEN_LEGGINGS
+  item_1204:
+    v: 4189
+    type: YELLOW_GLAZED_TERRACOTTA
+  item_1205:
+    v: 4189
+    type: ENCHANTED_BOOK
+  item_1206:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:piercing: 3
+  item_1207:
+    v: 4189
+    type: SPRUCE_PLANKS
+  item_1208:
+    v: 4189
+    type: POLISHED_DEEPSLATE
+  item_1209:
+    v: 4189
+    type: COBBLED_DEEPSLATE
+  item_1210:
+    v: 4189
+    type: NETHER_BRICK_STAIRS
+  item_1211:
+    v: 4189
+    type: LIGHT_BLUE_CONCRETE_POWDER
+  item_1212:
+    v: 4189
+    type: RED_GLAZED_TERRACOTTA
+  item_1213:
+    v: 4189
+    type: POTION
+  item_1214:
+    v: 4189
+    type: PINK_TULIP
+  item_1215:
+    v: 4189
+    type: CLAY_BALL
+  item_1216:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:respiration: 3
+  item_1217:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:water_breathing
+  item_1218:
+    v: 4189
+    type: SCULK_SENSOR
+  item_1219:
+    v: 4189
+    type: WARPED_STEM
+  item_1220:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slowness
+  item_1221:
+    v: 4189
+    type: SPECTRAL_ARROW
+  item_1222:
+    v: 4189
+    type: BEE_NEST
+  item_1223:
+    v: 4189
+    type: MAGENTA_BED
+  item_1224:
+    v: 4189
+    type: BROWN_BED
+  item_1225:
+    v: 4189
+    type: WAXED_WEATHERED_CUT_COPPER_STAIRS
+  item_1226:
+    v: 4189
+    type: MUTTON
+  item_1227:
+    v: 4189
+    type: CHERRY_STAIRS
+  item_1228:
+    v: 4189
+    type: CUT_COPPER
+  item_1229:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:piercing: 4
+  item_1230:
+    v: 4189
+    type: SOUL_CAMPFIRE
+  item_1231:
+    v: 4189
+    type: BASALT
+  item_1232:
+    v: 4189
+    type: MUSIC_DISC_STRAD
+  item_1233:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:fire_aspect: 2
+  item_1234:
+    v: 4189
+    type: SMOOTH_SANDSTONE_STAIRS
+  item_1235:
+    v: 4189
+    type: CHICKEN
+  item_1236:
+    v: 4189
+    type: MANGROVE_WOOD
+  item_1237:
+    v: 4189
+    type: GRAY_CONCRETE
+  item_1238:
+    v: 4189
+    type: ARMOR_STAND
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR_STAND
+      entity-tag: H4sIAAAAAAAA/+NiYGBk4AjOyC93LMotBrK5/fKdEotTA3ISS1KBXDbfxKLs1CIGDgamzBQG0dzMvNTkosS0EqvEotz8ovjiksS8FEYG1uDcxJwcoHJOz7yyzOLMpJxUBgYAw0xsalsAAAA=
+  item_1239:
+    v: 4189
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      display-name: '{"text":"","extra":[{"text":"ᴄᴏᴍᴍᴏɴ ᴄʜᴇsᴛᴘʟᴀᴛᴇ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"#3CA720"}]}'
+      enchants:
+        minecraft:protection: 1
+      trim:
+        material: minecraft:emerald
+        pattern: minecraft:wild
+  item_1240:
+    v: 4189
+    type: IRON_TRAPDOOR
+  item_1241:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:thick
+  item_1242:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sweeping_edge: 3
+  item_1243:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:frost_walker: 2
+  item_1244:
+    v: 4189
+    type: LIGHT_GRAY_CARPET
+  item_1245:
+    v: 4189
+    type: POLISHED_DIORITE
+  item_1246:
+    v: 4189
+    type: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_1247:
+    v: 4189
+    type: STONE_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 8
+  item_1248:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:riptide: 1
+  item_1249:
+    v: 4189
+    type: GREEN_DYE
+  item_1250:
+    v: 4189
+    type: DEEPSLATE_EMERALD_ORE
+  item_1251:
+    v: 4189
+    type: SPONGE
+  item_1252:
+    v: 4189
+    type: DEEPSLATE_TILE_STAIRS
+  item_1253:
+    v: 4189
+    type: BOWL
+  item_1254:
+    v: 4189
+    type: LIGHT_BLUE_CONCRETE
+  item_1255:
+    v: 4189
+    type: PURPLE_BANNER
+  item_1256:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:power: 1
+  item_1257:
+    v: 4189
+    type: BRICK_STAIRS
+  item_1258:
+    v: 4189
+    type: WOODEN_SHOVEL
+  item_1259:
+    v: 4189
+    type: OAK_DOOR
+  item_1260:
+    v: 4189
+    type: POPPY
+  item_1261:
+    v: 4189
+    type: PURPUR_BLOCK
+  item_1262:
+    v: 4189
+    type: BLACK_CONCRETE_POWDER
+  item_1263:
+    v: 4189
+    type: DARK_OAK_BOAT
+  item_1264:
+    v: 4189
+    type: GOLD_BLOCK
+  item_1265:
+    v: 4189
+    type: PINK_TERRACOTTA
+  item_1266:
+    v: 4189
+    type: SUNFLOWER
+  item_1267:
+    v: 4189
+    type: SMOKER
+  item_1268:
+    v: 4189
+    type: IRON_BARS
+  item_1269:
+    v: 4189
+    type: STONE_BRICKS
+  item_1270:
+    v: 4189
+    type: WHITE_CONCRETE
+  item_1271:
+    v: 4189
+    type: COAL_BLOCK
+  item_1272:
+    v: 4189
+    type: ACACIA_BUTTON
+  item_1273:
+    v: 4189
+    type: GREEN_STAINED_GLASS
+  item_1274:
+    v: 4189
+    type: QUARTZ
+  item_1275:
+    v: 4189
+    type: LIME_STAINED_GLASS
+  item_1276:
+    v: 4189
+    type: MAGENTA_WOOL
+  item_1277:
+    v: 4189
+    type: DIAMOND_SWORD
+  item_1278:
+    v: 4189
+    type: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_1279:
+    v: 4189
+    type: POINTED_DRIPSTONE
+  item_1280:
+    v: 4189
+    type: STRIPPED_CHERRY_LOG
+  item_1281:
+    v: 4189
+    type: PINK_WOOL
+  item_1282:
+    v: 4189
+    type: BLACK_STAINED_GLASS
+  item_1283:
+    v: 4189
+    type: RED_NETHER_BRICKS
+  item_1284:
+    v: 4189
+    type: SUSPICIOUS_STEW
+    meta:
+      ==: ItemMeta
+      meta-type: SUSPICIOUS_STEW
+      effects:
+        - ==: PotionEffect
+          effect: minecraft:weakness
+          duration: 180
+          amplifier: 0
+          ambient: true
+          has-particles: true
+          has-icon: true
+  item_1285:
+    v: 4189
+    type: GRAY_STAINED_GLASS
+  item_1286:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_invisibility
+  item_1287:
+    v: 4189
+    type: STRIPPED_CRIMSON_HYPHAE
+  item_1288:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:luck
+  item_1289:
+    v: 4189
+    type: STRIPPED_ACACIA_WOOD
+  item_1290:
+    v: 4189
+    type: CYAN_CANDLE
+  item_1291:
+    v: 4189
+    type: ANDESITE_STAIRS
+  item_1292:
+    v: 4189
+    type: WHEAT
+  item_1293:
+    v: 4189
+    type: BIRCH_DOOR
+  item_1294:
+    v: 4189
+    type: BLACK_BED
+  item_1295:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:harming
+  item_1296:
+    v: 4189
+    type: POLISHED_BLACKSTONE_STAIRS
+  item_1297:
+    v: 4189
+    type: GRAY_CARPET
+  item_1298:
+    v: 4189
+    type: STONE_PRESSURE_PLATE
+  item_1299:
+    v: 4189
+    type: CACTUS
+  item_1300:
+    v: 4189
+    type: MUD_BRICK_STAIRS
+  item_1301:
+    v: 4189
+    type: COCOA_BEANS
+  item_1302:
+    v: 4189
+    type: PINK_CONCRETE_POWDER
+  item_1303:
+    v: 4189
+    type: DEEPSLATE_GOLD_ORE
+  item_1304:
+    v: 4189
+    type: CRIMSON_ROOTS
+  item_1305:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_turtle_master
+  item_1306:
+    v: 4189
+    type: OCHRE_FROGLIGHT
+  item_1307:
+    v: 4189
+    type: GLOBE_BANNER_PATTERN
+  item_1308:
+    v: 4189
+    type: PUMPKIN_SEEDS
+  item_1309:
+    v: 4189
+    type: EXPOSED_CUT_COPPER_SLAB
+  item_1310:
+    v: 4189
+    type: MUSIC_DISC_WARD
+  item_1311:
+    v: 4189
+    type: STONE_HOE
+  item_1312:
+    v: 4189
+    type: PRISMARINE_BRICKS
+  item_1313:
+    v: 4189
+    type: COPPER_BLOCK
+  item_1314:
+    v: 4189
+    type: RAW_GOLD
+  item_1315:
+    v: 4189
+    type: DEEPSLATE_DIAMOND_ORE
+  item_1316:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sharpness: 2
+  item_1317:
+    v: 4189
+    type: BLADE_POTTERY_SHERD
+  item_1318:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:punch: 1
+  item_1319:
+    v: 4189
+    type: ENDER_DRAGON_SPAWN_EGG
+  item_1320:
+    v: 4189
+    type: CHERRY_PRESSURE_PLATE
+  item_1321:
+    v: 4189
+    type: PURPLE_TERRACOTTA
+  item_1322:
+    v: 4189
+    type: TERRACOTTA
+  item_1323:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:loyalty: 2
+  item_1324:
+    v: 4189
+    type: CHISELED_BOOKSHELF
+  item_1325:
+    v: 4189
+    type: STRIPPED_CHERRY_WOOD
+  item_1326:
+    v: 4189
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      display-name: '{"text":"","extra":[{"text":"ᴄᴏᴍᴍᴏɴ ʜᴇʟᴍᴇᴛ","strikethrough":false,"obfuscated":false,"bold":false,"italic":false,"underlined":false,"color":"#3CA720"}]}'
+      enchants:
+        minecraft:aqua_affinity: 1
+        minecraft:protection: 1
+        minecraft:respiration: 2
+      trim:
+        material: minecraft:emerald
+        pattern: minecraft:wild
+  item_1327:
+    v: 4189
+    type: CHEST_MINECART
+  item_1328:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:luck
+  item_1329:
+    v: 4189
+    type: DARK_PRISMARINE
+  item_1330:
+    v: 4189
+    type: GOLDEN_SHOVEL
+  item_1331:
+    v: 4189
+    type: BREWING_STAND
+  item_1332:
+    v: 4189
+    type: CRIMSON_STAIRS
+  item_1333:
+    v: 4189
+    type: GRANITE
+  item_1334:
+    v: 4189
+    type: CRYING_OBSIDIAN
+  item_1335:
+    v: 4189
+    type: STRIPPED_SPRUCE_LOG
+  item_1336:
+    v: 4189
+    type: CHAINMAIL_LEGGINGS
+  item_1337:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:feather_falling: 2
+  item_1338:
+    v: 4189
+    type: POLISHED_ANDESITE_SLAB
+  item_1339:
+    v: 4189
+    type: ITEM_FRAME
+  item_1340:
+    v: 4189
+    type: POLISHED_BLACKSTONE_BRICKS
+  item_1341:
+    v: 4189
+    type: LEATHER_BOOTS
+  item_1342:
+    v: 4189
+    type: BAMBOO_PLANKS
+  item_1343:
+    v: 4189
+    type: MINECART
+  item_1344:
+    v: 4189
+    type: GRANITE_SLAB
+  item_1345:
+    v: 4189
+    type: HEAVY_WEIGHTED_PRESSURE_PLATE
+  item_1346:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:power: 5
+  item_1347:
+    v: 4189
+    type: DARK_OAK_BUTTON
+  item_1348:
+    v: 4189
+    type: END_STONE_BRICK_STAIRS
+  item_1349:
+    v: 4189
+    type: RED_NETHER_BRICK_SLAB
+  item_1350:
+    v: 4189
+    type: BEEF
+  item_1351:
+    v: 4189
+    type: LIGHT_GRAY_BANNER
+  item_1352:
+    v: 4189
+    type: COAL
+  item_1353:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:sharpness: 5
+  item_1354:
+    v: 4189
+    type: GOLDEN_AXE
+  item_1355:
+    v: 4189
+    type: ANGLER_POTTERY_SHERD
+  item_1356:
+    v: 4189
+    type: BLACK_SHULKER_BOX
+  item_1357:
+    v: 4189
+    type: COBWEB
+  item_1358:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_turtle_master
+  item_1359:
+    v: 4189
+    type: WEATHERED_CUT_COPPER_STAIRS
+  item_1360:
+    v: 4189
+    type: DEEPSLATE_LAPIS_ORE
+  item_1361:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:wind_charged
+  item_1362:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:wind_burst: 3
+  item_1363:
+    v: 4189
+    type: FIRE_CORAL_BLOCK
+  item_1364:
+    v: 4189
+    type: CHORUS_FLOWER
+  item_1365:
+    v: 4189
+    type: GOLDEN_BOOTS
+  item_1366:
+    v: 4189
+    type: MANGROVE_PLANKS
+  item_1367:
+    v: 4189
+    type: LINGERING_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_regeneration
+  item_1368:
+    v: 4189
+    type: WITHER_SKELETON_SPAWN_EGG
+  item_1369:
+    v: 4189
+    type: DEEPSLATE_COPPER_ORE
+  item_1370:
+    v: 4189
+    type: POLISHED_BLACKSTONE_BRICK_STAIRS
+  item_1371:
+    v: 4189
+    type: JUNGLE_TRAPDOOR
+  item_1372:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:bane_of_arthropods: 3
+  item_1373:
+    v: 4189
+    type: BOW
+  item_1374:
+    v: 4189
+    type: CRACKED_DEEPSLATE_TILES
+  item_1375:
+    v: 4189
+    type: MILK_BUCKET
+  item_1376:
+    v: 4189
+    type: COOKED_PORKCHOP
+  item_1377:
+    v: 4189
+    type: GRANITE_STAIRS
+  item_1378:
+    v: 4189
+    type: REDSTONE_BLOCK
+  item_1379:
+    v: 4189
+    type: TNT
+  item_1380:
+    v: 4189
+    type: WARPED_DOOR
+  item_1381:
+    v: 4189
+    type: GRAY_STAINED_GLASS_PANE
+  item_1382:
+    v: 4189
+    type: PINK_BED
+  item_1383:
+    v: 4189
+    type: IRON_ORE
+  item_1384:
+    v: 4189
+    type: CHISELED_SANDSTONE
+  item_1385:
+    v: 4189
+    type: MUSIC_DISC_5
+  item_1386:
+    v: 4189
+    type: BUCKET
+  item_1387:
+    v: 4189
+    type: STRIPPED_OAK_LOG
+  item_1388:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:silk_touch: 1
+  item_1389:
+    v: 4189
+    type: DEAD_FIRE_CORAL
+  item_1390:
+    v: 4189
+    type: MAGMA_CREAM
+  item_1391:
+    v: 4189
+    type: POLISHED_DEEPSLATE_STAIRS
+  item_1392:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:thick
+  item_1393:
+    v: 4189
+    type: BIRCH_BUTTON
+  item_1394:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strength
+  item_1395:
+    v: 4189
+    type: WITHER_SPAWN_EGG
+  item_1396:
+    v: 4189
+    type: SNORT_POTTERY_SHERD
+  item_1397:
+    v: 4189
+    type: DEEPSLATE_COAL_ORE
+  item_1398:
+    v: 4189
+    type: BLUE_BANNER
+  item_1399:
+    v: 4189
+    type: ARCHER_POTTERY_SHERD
+  item_1400:
+    v: 4189
+    type: BIRCH_LEAVES
+  item_1401:
+    v: 4189
+    type: WARD_ARMOR_TRIM_SMITHING_TEMPLATE
+  item_1402:
+    v: 4189
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_slow_falling
+  item_1403:
+    v: 4189
+    type: RED_NETHER_BRICK_STAIRS
+  item_1404:
+    v: 4189
+    type: RED_STAINED_GLASS_PANE
+  item_1405:
+    v: 4189
+    type: BLACK_TERRACOTTA
+  item_1406:
+    v: 4189
+    type: WARPED_SIGN
+  item_1407:
+    v: 4189
+    type: ENDER_PEARL
+  item_1408:
+    v: 4189
+    type: COBBLED_DEEPSLATE_SLAB
+  item_1409:
+    v: 4189
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:luck_of_the_sea: 2
+  item_1410:
+    v: 4189
+    type: POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_leaping
+  item_1411:
+    v: 4189
+    type: CAKE
+  item_1412:
+    v: 4189
+    type: LEATHER_CHESTPLATE
