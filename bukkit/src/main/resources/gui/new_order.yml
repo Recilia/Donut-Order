@@ -1,0 +1,50 @@
+title: "ᴏʀᴅᴇʀs -> New Order"
+
+items:
+  cancel:
+    name: "#FC0000ᴄᴀɴᴄᴇʟ"
+    lore:
+      - "&fClick to return"
+    material: "RED_STAINED_GLASS_PANE"
+    slot: 10
+    customModelData: -1
+    sound: click
+
+  current_item:
+    name: "#E63A35ɪᴛᴇᴍ"
+    lore:
+      - "&7({currentItem})"
+    material: STONE
+    slot: -999 # Not changeable yet
+    customModelData: -1
+    sound: click
+
+  amount:
+    name: "#E63A35ᴀᴍᴏᴜɴᴛ"
+    lore:
+      - "&fClick to type number of items"
+      - "&7({currentAmount})"
+    material: "CHEST"
+    slot: 13
+    customModelData: -1
+    sound: click
+
+  price:
+    name: "#E63A35ᴘʀɪᴄᴇ"
+    lore:
+      - "&fClick to type the price per item"
+      - "&7(${currentPrice})"
+    material: "EMERALD"
+    slot: 14
+    customModelData: -1
+    sound: click
+
+  confirm:
+    name: "#00FC00ᴄᴏɴғɪʀᴍ"
+    lore:
+      - "&fClick to confirm order"
+      - "&7(Total: ${totalPrice})"
+    material: "LIME_STAINED_GLASS_PANE"
+    slot: 16
+    customModelData: -1
+    sound: click
