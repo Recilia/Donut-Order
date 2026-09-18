@@ -1,0 +1,30 @@
+# Available databases:
+#  - sqlite
+#  - mysql
+#
+# If the plugin inside type is null, it will use sqlite by default
+type: "sqlite"
+
+mysql:
+  host: localhost
+  port: 3306
+  database: "donutorder"
+  user: root
+  password: ''
+  max-pool: 15
+  use-ssl: false
+
+# Redis distributed locking system
+# Usually used for cross-server support
+redis:
+  # Enable Redis for distributed locking
+  enabled: false
+
+  # Redis connection settings
+  host: "localhost"
+  port: 6379
+  password: ""  # Leave empty for no password
+  useSSL: false
+
+  # Lock settings
+  lockExpiry: 30  # Time in seconds before locks automatically expire
