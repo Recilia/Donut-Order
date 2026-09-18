@@ -1,0 +1,111 @@
+title: "ᴏʀᴅᴇʀs -> Select Item"
+
+items:
+  back:
+    name: "#E63A35ʙᴀᴄᴋ"
+    lore:
+      - "&fClick to go to the previous page"
+    material: "ARROW"
+    slot: 45
+    customModelData: -1
+    sound: click
+
+  next:
+    name: "#E63A35ɴᴇxᴛ"
+    lore:
+      - "&fClick to go to the next page"
+    material: "ARROW"
+    slot: 53
+    customModelData: -1
+    sound: click
+
+  search:
+    name: "#E63A35sᴇᴀʀᴄʜ"
+    lore:
+      - "&fClick to search"
+    material: "OAK_SIGN"
+    slot: 50
+    customModelData: -1
+    sound: click
+
+  sort_select:
+    name: "#E63A35sᴏʀᴛ"
+    material: "CAULDRON"
+    selected_color: "#E63A35"
+    unselected_color: "&f"
+    bullet_icon: "▪ "
+    options: # DONT CHANGE ANYTHING IN HERE
+      - "SORT_SELECT_A_Z"
+      - "SORT_SELECT_Z_A"
+      - "SORT_SELECT_HIGHEST_PRICE"
+      - "SORT_SELECT_LOWEST_PRICE"
+    slot: 49
+    customModelData: -1
+    sound: click
+
+  filter:
+    name: "#E63A35ғɪʟᴛᴇʀ"
+    material: "HOPPER"
+    selected_color: "#E63A35"
+    unselected_color: "&f"
+    bullet_icon: "▪ "
+    options: # DONT CHANGE ANYTHING IN HERE
+      - "FILTER_ALL"
+      - "FILTER_BLOCKS"
+      - "FILTER_TOOLS"
+      - "FILTER_FOOD"
+      - "FILTER_COMBAT"
+      - "FILTER_POTIONS"
+      - "FILTER_BOOKS"
+      - "FILTER_INGREDIENTS"
+      - "FILTER_UTILITIES"
+    slot: 48
+    customModelData: -1
+    sound: click
+
+itemSlots:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  - 32
+  - 33
+  - 34
+  - 35
+  - 36
+  - 37
+  - 38
+  - 39
+  - 40
+  - 41
+  - 42
+  - 43
+  - 44
