@@ -1,0 +1,27 @@
+version: '3'
+
+services:
+  redis:
+    image: redis:latest
+    container_name: donutorder_redis
+    ports:
+      - "6379:6379"
+    command: redis-server --requirepass test
+    volumes:
+      - redis_data:/data
+  ordermysql:
+    image: mysql:latest
+    container_name: ordermysql
+    ports:
+      - "3306:3306"
+    environment:
+      - MYSQL_DATABASE=order_db
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=test
+      - MYSQL_ROOT_PASSWORD=root_password
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  redis_data:
+  mysql_data:
