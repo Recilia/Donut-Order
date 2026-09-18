@@ -1,0 +1,48 @@
+classpath   "ZKM.jar"
+            ".;obfplg/libs/*.jar";
+
+ignoreMissingReferences;
+
+open        "obfplg\DonutOrder-${version}.jar";
+
+fixedClasses me.rein.donutorder.api..* and me.rein.donutorder.libs..* and
+             me.rein.donutorder.commons.objectholders..*;
+
+exclude
+            final me.rein.donutorder.DonutOrder^ extends org.bukkit.plugin.java.JavaPlugin onEnable() and
+            *.* getDatabase(*) and *.* initialize(*) and *.* close(*) and *.* createCategory(*) and
+            *.* deleteCategory(*) and *.* getAllCategories(*) and *.* addToHistory(*) and
+            *.* getHistory(*) and *.* getPlayerBuyMoney(*) and *.* addPlayerBuyMoney(*) and
+            *.* setBounty(*) and *.* getBounty(*) and *.* removeBounty(*) and *.* setPlayerTier(*) and
+            *.* getPlayerTier(*) and *.* getPlayerMoney(*) and *.* addPlayerMoney(*) and
+            *.* getAllPlayerTiers(*) and *.* getAllPlayerMoney(*) and
+            *.* createOrder(*) and *.* deleteOrder(*) and *.* updateOrder(*) and *.* updateClaimedAmount(*) and
+            *.* getOrder(*) and *.* getAllOrders(*) and *.* getPlayerOrders(*) and *.* getActiveOrders(*) and
+            *.* updateDeliveredAmount(*) and *.* updateTotalPaid(*) and *.* deleteExpiredOrders(*) and
+            *.* serializeItemStack(*) and *.* deserializeItemStack(*) and
+            *.* getInstance(*) and *.* getDatabase(*) and
+            me.rein.donutorder.commons.util.ItemBuilder^ extends org.bukkit.inventory.ItemStack and
+            *.* toItemStack(*) and *.* serializeItemStack(*) and *.* deserializeItemStack(*);
+
+exclude me.rein.donutorder.enums..*;
+
+obfuscate   changeLogFileIn=""
+            changeLogFileOut="ChangeLog.txt"
+            keepInnerClassInfo=true
+            obfuscateFlow=none
+            exceptionObfuscation=heavy
+	    encryptStringLiterals=enhanced
+            encryptIntegerConstants=aggressive
+            encryptLongConstants=normal
+            mixedCaseClassNames=ifInArchive
+            localVariables=keepMethodParametersIfNotObfuscated
+            lineNumbers=scramble
+            randomize=true
+            collapsePackagesWithDefault="me/rein/donutorder"
+	    aggressiveMethodRenaming=true
+            methodParameterChanges=flowObfuscate
+            autoReflectionHandling=normal
+            obfuscateReferences=none
+            preverify=true;
+
+saveAll     archiveCompression=all "obf output";
