@@ -1,0 +1,32 @@
+title: "ᴏʀᴅᴇʀs -> Confirm Delivery"
+
+items:
+  delivery_order:
+    name: "#E63A35{playerName}'s Order"
+    lore:
+      - "#E63A35{itemAmount} &f{itemType}"
+      - "#E63A35${itemPrice} &feach"
+      - ""
+      - "&7You're delivering #E63A35{deliveryAmount} &f{itemType}"
+    material: "BARRIER" # THIS DOESNT MATTER BECAUSE IT WILL CHANGE
+    slot: 13
+    sound: click
+
+  cancel:
+    name: "#FC0000ᴄᴀɴᴄᴇʟ"
+    lore:
+      - "&fClick to go back"
+    material: "RED_STAINED_GLASS_PANE"
+    slot: 10
+    customModelData: -1
+    sound: click
+
+  confirm:
+    name: "#00FC00ᴄᴏɴғɪʀᴍ"
+    lore:
+      - "&fClick to deliver items"
+      - "&7(${moneyForDelivery})"
+    material: "LIME_STAINED_GLASS_PANE"
+    slot: 16
+    customModelData: -1
+    sound: click
