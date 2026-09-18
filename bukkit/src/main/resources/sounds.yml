@@ -1,0 +1,21 @@
+# ==================
+#       Sounds
+# ==================
+# - You can use any of these sounds just by adding a
+# 'sound' section under any gui-related item, such as
+# sound: click
+
+click:
+  sound: UI_BUTTON_CLICK
+  volume: 1.0
+  pitch: 1.0
+
+xp:
+  sound: ENTITY_EXPERIENCE_ORB_PICKUP
+  volume: 1.0
+  pitch: 1.0
+
+error:
+  sound: ENTITY_VILLAGER_NO
+  volume: 1.0
+  pitch: 1.0
