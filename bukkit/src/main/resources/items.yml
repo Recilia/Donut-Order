@@ -1,0 +1,7 @@
+# Plugin should add vanilla items automatically?
+vanilla-items:
+  listed: true
+  # Should plugin exempt non-solid blocks
+  exempt-non-solids: true
+  exempt:
+    - BEDROCK
