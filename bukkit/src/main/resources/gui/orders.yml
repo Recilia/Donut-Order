@@ -1,0 +1,137 @@
+title: "ᴏʀᴅᴇʀs ({currentPage}/{maxPages})"
+
+items:
+  actual_order:
+    name: "#E63A35{playerName}'s Order"
+    lore:
+      - "#E63A35{itemAmount} &f{itemType}"
+      - "#E63A35${itemPrice} &feach"
+      - ""
+      - "#E63A35{currentlyDelivered}/#A14444{totalDelivery} #858585Delivered"
+      - "#E63A35${totalPaid}/#A14444${totalPrice} #858585Paid"
+      - ""
+      - "&fClick to deliver #E63A35{playerName}&f{shouldUsea} {itemType}"
+    material: "BARRIER" # THIS DOESNT MATTER BECAUSE IT WILL CHANGE
+    sound: click
+
+  back:
+    name: "#E63A35ʙᴀᴄᴋ"
+    lore:
+      - "&fClick to go to the previous page"
+    material: "ARROW"
+    slot: 45
+    sound: click
+
+  next:
+    name: "#E63A35ɴᴇxᴛ"
+    lore:
+      - "&fClick to go to the next page"
+    material: "ARROW"
+    slot: 53
+    sound: click
+
+  orders:
+    name: "#E63A35ᴏʀᴅᴇʀs"
+    lore:
+      - "&fClick to refresh"
+    material: "MAP"
+    slot: 49
+
+  search:
+    name: "#E63A35sᴇᴀʀᴄʜ"
+    lore:
+      - "&fClick to search"
+    material: "OAK_SIGN"
+    slot: 50
+    sound: click
+
+  your_orders:
+    name: "#E63A35ʏᴏᴜʀ ᴏʀᴅᴇʀs"
+    lore:
+      - "&fClick to view your orders"
+    material: "CHEST"
+    slot: 51
+    customModelData: -1
+    sound: click
+
+  sort:
+    name: "#E63A35sᴏʀᴛ"
+    material: "CAULDRON"
+    selected_color: "#E63A35"
+    unselected_color: "&f"
+    bullet_icon: "▪ "
+    options: # DONT CHANGE ANYTHING IN HERE
+      - "SORT_MOST_PAID"
+      - "SORT_MOST_DELIVERED"
+      - "SORT_RECENTLY_LISTED"
+      - "SORT_MOST_MONEY_PER_ITEM"
+    slot: 47
+    customModelData: -1
+    sound: click
+
+  filter:
+    name: "#E63A35ғɪʟᴛᴇʀ"
+    material: "HOPPER"
+    selected_color: "#E63A35"
+    unselected_color: "&f"
+    bullet_icon: "▪ "
+    options: # DONT CHANGE ANYTHING IN HERE
+      - "FILTER_ALL"
+      - "FILTER_BLOCKS"
+      - "FILTER_TOOLS"
+      - "FILTER_FOOD"
+      - "FILTER_COMBAT"
+      - "FILTER_POTIONS"
+      - "FILTER_BOOKS"
+      - "FILTER_INGREDIENTS"
+      - "FILTER_UTILITIES"
+    slot: 48
+    customModelData: -1
+    sound: click
+
+orderSlots:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  - 32
+  - 33
+  - 34
+  - 35
+  - 36
+  - 37
+  - 38
+  - 39
+  - 40
+  - 41
+  - 42
+  - 43
+  - 44
