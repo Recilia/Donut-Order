@@ -1,0 +1,50 @@
+title: "ᴏʀᴅᴇʀs -> Your Orders"
+
+items:
+  actual_order:
+    name: "#E63A35{playerName}'s Order"
+    lore:
+      - "#E63A35{itemAmount} &f{itemType}"
+      - "#E63A35${itemPrice} &feach"
+      - ""
+      - "#E63A35{currentlyDelivered}/#A14444{totalDelivery} #858585Delivered"
+      - "#E63A35${totalPaid}/#A14444${totalPrice} #858585Paid"
+      - ""
+      - "&8{formattedExpirationTime} Until Order expires"
+    material: "BARRIER" # THIS DOESNT MATTER BECAUSE IT WILL CHANGE
+    slot: -999 # DO NOT CHANGE IT
+    customModelData: -1
+    sound: click
+
+  expired_order:
+    name: "#E63A35{playerName}'s Expired Order"
+    lore:
+      - "#E63A35{itemAmount} &f{itemType}"
+      - "#E63A35${itemPrice} &feach"
+      - ""
+      - "#E63A35{currentlyDelivered}/#A14444{totalDelivery} #858585Delivered"
+      - "#E63A35${totalPaid}/#A14444${totalPrice} #858585Paid"
+      - ""
+      - "&8{formattedDeletionTime} Until Order will be deleted"
+    material: "BARRIER" # THIS DOESNT MATTER BECAUSE IT WILL CHANGE
+    slot: -999 # DO NOT CHANGE IT
+    customModelData: -1
+    sound: click
+
+  your_order:
+    name: "#E63A35New Order"
+    lore:
+      - "&fClick to create a new order"
+    material: "MAP"
+    slot: -999 # DO NOT CHANGE IT
+    customModelData: -1
+    sound: click
+
+  max_orders:
+    name: "&cMax Orders"
+    lore:
+      - "&fYou've created the maximum number of orders"
+    material: "PAPER"
+    slot: -999 # DO NOT CHANGE IT
+    customModelData: -1
+    sound: click
