@@ -1,0 +1,65 @@
+select_item: "&fClick to select"
+on_order_placed: "&7You ordered #E63A35{amount} {itemType}"
+on_deliver: "&7You delivered #E63A35{amount} {itemType} &7and received #A14444${totalPrice}"
+order_cancelled: "&aYour order has been successfully cancelled."
+order_cancel_has_items: "&cYou must collect your items before cancelling this order."
+not_enough_money: "&cYou don't have enough money to place an order!"
+order_announcement: "&c{player} &fhas ordered &7x{amount} {itemType} &f for &a{priceEach}$&f each, use /order to view it."
+sell_all: "&aYou successfully sold your items for {price}$"
+
+notifications:
+  items_delivered: "&7You have been delivered #E63A35{amount} #E63A35{itemName} &7from #E63A35{senderName}"
+  unclaimed_order: "&7You have #E63A35{amount} &7unclaimed orders! Use #E63A35/order &7to collect them"
+  toggle:
+    on: "&aOrder notifications enabled!"
+    off: "&cOrder notifications disabled!"
+
+pricing:
+  min: "&cYour order must have a minimum total price of {minPrice}"
+  max: "&cYour order cannot have a higher total price than {maxPrice}"
+  per_unit_min: "&cPrice per item must be at least {minPrice}"
+  per_unit_max: "&cPrice per item cannot be higher than {maxPrice}"
+
+pick_enchantments:
+  unselected: "&fClick to select"
+  selected: "&aSelected"
+
+signs:
+  amount:
+    - "" # <- THIS MUST BE EMPTY
+    - "^^^^^^^^^^^^^^^"
+    - "Amount"
+    - ""
+  price_per_item:
+    - "" # <- THIS MUST BE EMPTY
+    - "^^^^^^^^^^^^^^^"
+    - "Price Per"
+    - "Item"
+  search:
+    - "" # <- THIS MUST BE EMPTY
+    - "^^^^^^^^^^^^^^^"
+    - "Search"
+    - ""
+
+sorts:
+  MOST_PAID: "Most Paid"
+  MOST_DELIVERED: "Most Delivered"
+  RECENTLY_LISTED: "Recently Listed"
+  MOST_MONEY_PER_ITEM: "Most Money Per Item"
+
+filters:
+  ALL: "All"
+  BLOCKS: "Blocks"
+  TOOLS: "Tools"
+  FOOD: "Food"
+  COMBAT: "Combat"
+  POTIONS: "Potions"
+  BOOKS: "Books"
+  INGREDIENTS: "Ingredients"
+  UTILITIES: "Utilities"
+
+sort_select:
+  A_Z: "A-Z"
+  Z_A: "Z-A"
+  HIGHEST_PRICE: "Highest Price"
+  LOWEST_PRICE: "Lowest Price"
