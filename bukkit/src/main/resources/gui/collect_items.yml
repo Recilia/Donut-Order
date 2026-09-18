@@ -1,0 +1,84 @@
+title: "ᴏʀᴅᴇʀs -> Collect Items"
+
+items:
+  drop_all:
+    name: "#E63A35ᴅʀᴏᴘ ᴀʟʟ"
+    lore:
+      - "&fClick to drop all items"
+    material: "DISPENSER"
+    slot: 49
+    customModelData: -1
+    sound: click
+
+  # Still in BETA
+#  sell_all:
+#    name: "#E63A35sᴇʟʟ ᴀʟʟ"
+#    lore:
+#      - "&fClick to sell all items"
+#    material: "SUNFLOWER"
+#    slot: 47
+#    customModelData: -1
+#    sound: click
+
+  back:
+    name: "#E63A35ʙᴀᴄᴋ"
+    lore:
+      - "&fClick to go to the previous page"
+    material: "ARROW"
+    slot: 45
+    sound: click
+
+  next:
+    name: "#E63A35ɴᴇxᴛ"
+    lore:
+      - "&fClick to go to the next page"
+    material: "ARROW"
+    slot: 53
+    sound: click
+
+itemSlots:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
+  - 32
+  - 33
+  - 34
+  - 35
+  - 36
+  - 37
+  - 38
+  - 39
+  - 40
+  - 41
+  - 42
+  - 43
+  - 44
