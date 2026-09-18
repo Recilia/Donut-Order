@@ -1,0 +1,38 @@
+# Shop Integration Configuration
+#
+# Available shop plugins:
+#   - None = Default
+#   - DonutWorth (DonutSMP Setup)
+#     -> https://builtbybit.com/resources/donutsmp-setup-exclusive-clone-order.53596/
+#   - ShopGUI+
+#   - EconomyShopGUI (includes premium version)
+#   - ZShop
+#   - ExcellentShop
+#
+# If a plugin is not on the server, it will take the default prices
+#
+# To enable a shop integration:
+# 1. Set the 'shop' value to the EXACT name of your shop plugin
+# 2. Example: shop: "ShopGUI+"
+#
+# Note: You can also create custom shop integrations using our API.
+# Tip for Developers: If you want to create a custom shop, do it inside the ShopRegistrationCompleteEvent
+#  -> Make sure you use ShopManager (to register it, no need to set it active as DonutOrder will do it automatically)
+#
+shop: "DonutWorth"  # Set to "None" to use default prices
+
+# Currency Integration Configuration
+#
+# Available currency plugins:
+#   - Vault
+#   - SuperMobCoins
+#
+# To enable a currency:
+# 1. Set the 'currency' value to the EXACT name of your currency plugin
+# 2. Example: currency: "Vault"
+#
+# Note: You can also create custom currency integrations using our API.
+# Tip for Developers: If you want to create a custom currency, do it inside the CurrencyRegistrationCompleteEvent
+#  -> Make sure you use CurrencyManager (to register it, no need to set it active as DonutOrder will do it automatically)
+#
+currency: "Vault"
