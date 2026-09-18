@@ -1,0 +1,59 @@
+[versions]
+# minecraft
+paper-api = "1.17.1-R0.1-SNAPSHOT"
+
+# licensing
+sentinel = "1.5.0"
+
+# useful
+lombok = "1.18.42"
+folialib = "0.5.1"
+xseries = "13.6.0+26.1"
+signgui = "2.5.6"
+
+# plugins
+placeholderapi = "2.11.6"
+vault = "1.7"
+eco = "6.75.2"
+mmoitems = "6.9.5-SNAPSHOT"
+mythiclib = "1.6.2-SNAPSHOT"
+economyshopgui = "1.7.2"
+shopgui = "3.0.0"
+
+# database
+jedis = "5.2.0"
+hikaricp = "5.0.1"
+zstd = "1.5.7-3"
+
+[libraries]
+# minecraft
+paper-api = { group = "io.papermc.paper", name = "paper-api", version.ref = "paper-api" }
+
+# licensing
+sentinel = { group = "dev.demeng", name = "sentinel-java-wrapper", version.ref = "sentinel" }
+
+# useful
+lombok = { group = "org.projectlombok", name = "lombok", version.ref = "lombok" }
+folialib = { group = "com.tcoded", name = "FoliaLib", version.ref = "folialib" }
+xseries = { group = "io.github.almighty-satan", name = "XSeries", version.ref = "xseries" }
+signgui = { group = "de.rapha149.signgui", name = "SignGUI", version.ref = "signgui" }
+
+# plugins
+placeholderapi = { group = "me.clip", name = "placeholderapi", version.ref = "placeholderapi" }
+vault = { group = "com.github.MilkBowl", name = "VaultAPI", version.ref = "vault" }
+eco = { group = "com.willfp", name = "eco", version.ref = "eco" }
+mmoitems = { group = "net.Indyuce", name = "MMOItems-API", version.ref = "mmoitems" }
+mythiclib = { group = "io.lumine", name = "MythicLib-dist", version.ref = "mythiclib" }
+economyshopgui = { group = "com.github.Gypopo", name = "EconomyShopGUI-API", version.ref = "economyshopgui" }
+shopgui = { group = "com.github.brcdev-minecraft", name = "shopgui-api", version.ref = "shopgui" }
+
+# database
+jedis = { group = "redis.clients", name = "jedis", version.ref = "jedis" }
+hikaricp = { group = "com.zaxxer", name = "HikariCP", version.ref = "hikaricp" }
+zstd = { group = "com.github.luben", name = "zstd-jni", version.ref = "zstd" }
+
+[bundles]
+mmo = ["mmoitems", "mythiclib"]
+
+[plugins]
+shadow = { id = "com.gradleup.shadow", version = "9.3.0" }
