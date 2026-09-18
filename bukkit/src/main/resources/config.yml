@@ -1,0 +1,131 @@
+# ================================
+#   Order: Configuration
+# ================================
+#
+# Thank you for using Order!
+# To get support join our discord server and create a ticket
+# ➥ discord.gg/dn8YE2Ctbv
+#
+# ================================
+#
+# !!!!!!!!!!!! PERMISSIONS !!!!!!!!!!!!
+# The permission to let players use /order is 'order.use'
+
+# Core Settings
+# --------------------------------
+# License key for the plugin
+license-key: "NONE"
+
+# Instead of caching the orders
+# They are fetched each time from the database directly
+# Check databases.yml for redis distributed locking system
+cross-server-support: false
+
+# ######### BETA #########
+# All item names will be translated automatically to the client's language
+# All item names in here will be WHITE as of now
+# Only works on paper/paper forks (folia included)
+localization: false
+
+# Enables placeholderapi support in all gui item lore
+fullLorePAPISupport: false
+
+# If an item is enchantable
+# do not open the pick_enchantments gui
+skipEnchants: false
+
+# On each new server start, pricesv2.yml is
+# always verified
+stopAutoMigrationOnStart: false
+
+# When a player orders something
+# An announcement in chat will be sent
+announce: true
+
+# When enabled, players can only deliver items that have full durability.
+# This prevents players from delivering damaged tools/armor/etc.
+require-full-durability: false
+
+# Cooldown in milliseconds between GUI clicks (prevents spam/exploits)
+click-cooldown-ms: 100
+
+# When enabled, whenever typing /order (item)
+# it will search through the main order gui
+#
+# If set to false, it will open the order menu directly
+quick-search: true
+
+# Available notifications (sent to player):
+#   - unclaimed order
+#   - items delivered
+notifications:
+  enabled: true
+
+  # Allow the players to use /order togglenotifications
+  toggle: true
+
+# Use -1 for no restriction on any individual setting
+pricing:
+  # Limits on the TOTAL price of an order (amount * price-per-item)
+  total:
+    min: 100.0
+    max: 999999999.0
+
+  # Limits on the price PER UNIT/ITEM
+  per-unit:
+    min: -1
+    max: -1
+
+# The amount of time before
+# - an order disappears from the public list
+# - an order gets fully deleted
+duration:
+  public: 7 # in days
+  expiration: 999 # in days
+
+# Aliases that can be used for command execution
+aliases:
+  - orders
+  - dorder
+
+permissions:
+  # Permission for having admin abilities for DonutOrder
+  order-admin: order.admin
+
+  # Max Orders Permission Based (26 is max)
+  # Format: (permission):(max orders)
+  order-limits:
+    - "order.default:3"
+    - "order.vip:5"
+    - "order.mvp:8"
+    - "order.admin:26"
+
+# Time formatting
+timing:
+  days: "d"     # Plural (e.g., "5 days" or customize to "5d")
+  day: "d"      # Singular (e.g., "1 day" or customize to "1d")
+  hours: "h"    # Plural
+  hour: "h"     # Singular
+  minutes: "m"  # Plural
+  minute: "m"   # Singular
+  seconds: "s"  # Plural
+  second: "s"   # Singular
+
+# Discord webhook logging, useful for monitoring suspicious activity.
+# All transactions are sent to the configured Discord channel.
+webhook:
+  enabled: false
+
+  # The webhook URL from your Discord channel
+  # Get one from: Channel Settings -> Integrations -> Webhooks -> Create Webhook
+  url: ""
+
+  # The display name that appears next to each message in Discord
+  username: "DonutOrder"
+
+  events:
+    order-create: true
+    order-deliver: true
+    order-collect: true
+    order-expire: true
+    order-cancel: true
