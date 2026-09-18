@@ -1,0 +1,21 @@
+title: "ᴏʀᴅᴇʀs -> Edit Order"
+
+items:
+  cancel:
+    name: "#E63A35ᴄᴀɴᴄᴇʟ"
+    lore:
+      - "&fClick to cancel this order"
+    material: "RED_TERRACOTTA"
+    slot: 13
+    customModelData: -1
+    sound: click
+
+  collect:
+    name: "#E63A35ᴄᴏʟʟᴇᴄᴛ"
+    lore:
+      - "&fClick to collect items"
+      - "&7{itemList}" # <--- this will create multiple lore lines, don't put anything under it
+    material: "CHEST"
+    slot: 15
+    customModelData: -1
+    sound: click
