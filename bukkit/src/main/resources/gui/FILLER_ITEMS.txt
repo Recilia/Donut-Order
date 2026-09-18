@@ -1,0 +1,64 @@
+Filler Items
+
+Filler items are decoration items that appear in your GUI purely for visual purposes.
+They have no click action. Any item you add under the "items" section of a GUI yml
+file that is not a recognized functional item (like sort, filter, search, back, next,
+etc.) will automatically become a filler item.
+
+The plugin places filler items into any slot that is not already occupied by a
+functional button. If a slot is already taken by something like the sort button or
+the back arrow, the filler will not override it.
+
+
+How to create a filler item
+
+Add a new entry with any unique name under "items" in your GUI yml file.
+Here is a full example with every supported property:
+
+  items:
+    my_filler:
+      name: " "
+      material: BLACK_STAINED_GLASS_PANE
+      lore:
+        - "&7This is a decoration"
+        - "&7Second line of lore"
+      customModelData: -1
+      slot: 46
+
+
+Supported properties
+
+  name            The display name of the item. Supports color codes (& and hex).
+                  Use " " (a space) to make it look like it has no name.
+
+  material        The Minecraft material name, like BLACK_STAINED_GLASS_PANE,
+                  GRAY_STAINED_GLASS_PANE, BARRIER, etc.
+
+  lore            A list of lines that appear below the name. Supports color codes.
+                  This is optional. If you don't need lore, just leave it out.
+
+  customModelData A number used for custom resource packs to display a custom texture.
+                  Set to -1 to use the default item texture. This is optional.
+
+  slot            The inventory slot(s) where the filler will be placed.
+                  You can use a single number or a list of numbers.
+
+
+Single slot vs multiple slots
+
+You can place a filler in one slot:
+
+  slot: 46
+
+Or in multiple slots at once using a list:
+
+  slot: [45, 46, 47, 48, 49, 50, 51, 52, 53]
+
+Both formats work. The list format is useful when you want to fill an entire
+row with the same item without creating separate entries for each slot.
+
+
+Note about sound
+
+Filler items do not have a click action, so the "sound" property has no effect
+on them. Sound only works on functional buttons that the player can interact with.
