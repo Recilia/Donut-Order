@@ -1,0 +1,21 @@
+# Welcome to Prices V2 for DonutOrder
+# This new config allows for much better item search & custom data
+
+# In-Built Support:
+# - Regular Minecraft Items (enchanted, named, etc.)
+# - MMOItems Integration
+# - [More integrations coming soon!]
+#
+# MMOItems Example:
+# item_2001:
+#   mmoitem:
+#     type: SWORD       # The MMOItem TYPE (e.g. SWORD, STAFF, ARMOR)
+#     id: FLAME_BLADE   # The MMOItem ID (e.g. FLAME_BLADE, ARCANE_STAFF)
+#   price: 500.0
+#   aliases: ["flaming sword", "fire blade"]
+#   category: COMBAT
+#
+# Want to add support for your favorite item plugin?
+# Let us know on Discord!
+
+prices: []
