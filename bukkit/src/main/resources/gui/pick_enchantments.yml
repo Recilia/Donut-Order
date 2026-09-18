@@ -1,0 +1,38 @@
+title: "ᴘɪᴄᴋ ᴇɴᴄʜᴀɴᴛᴍᴇɴᴛs"
+
+items:
+  back:
+    name: "#E63A35ʙᴀᴄᴋ"
+    lore:
+      - "&fClick to go to the previous page"
+    material: "ARROW"
+    slot: 45
+    customModelData: -1
+    sound: click
+
+  next:
+    name: "#E63A35ɴᴇxᴛ"
+    lore:
+      - "&fClick to go to the next page"
+    material: "ARROW"
+    slot: 53
+    customModelData: -1
+    sound: click
+
+  cancel:
+    name: "#FC0000ᴄᴀɴᴄᴇʟ"
+    lore:
+      - "&fClick to return"
+    material: "RED_STAINED_GLASS_PANE"
+    slot: 46
+    customModelData: -1
+    sound: click
+
+  confirm:
+    name: "#00FC00ᴄᴏɴғɪʀᴍ"
+    lore:
+      - "&fClick to confirm enchants"
+    material: "LIME_STAINED_GLASS_PANE"
+    slot: 52
+    customModelData: -1
+    sound: click
